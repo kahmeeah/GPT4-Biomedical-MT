@@ -1,6 +1,10 @@
 .DS_Store
 .vscode/
+venv/
 
 # generated files
 *.csv
 /results/  
+
+# secets
+.env
