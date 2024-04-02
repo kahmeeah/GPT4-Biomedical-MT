@@ -1,6 +1,8 @@
 .DS_Store
 .vscode/
 venv/
+.venv/
+__pycache__/
 
 # generated files
 *.csv
@@ -8,3 +10,4 @@ venv/
 
 # secets
 .env
+src/GPT4-Biomedical-MT.json
