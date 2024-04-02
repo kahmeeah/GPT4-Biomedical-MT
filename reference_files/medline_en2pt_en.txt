@@ -1,0 +1,508 @@
+doc1	1	Evaluate the application value of 3D printing technology in measuring acetabular bone defect area in adult patients diagnosed with developmental dysplasia of the hip (DDH).
+doc1	2	23 cases of DDH requiring total hip replacement surgery were enrolled in this study.
+doc1	3	Preoperative examination confirmed the standard pelvic plain films Crowe, including 3 cases of Crowe I, 7 Crowe II, and 13 Crowe III.
+doc1	4	The 3D printing technology was used to print the hip model before the operation.
+doc1	5	Based on the pre-printed model, pre-operative planning and surgical procedures were established.
+doc1	6	The area of the acetabular bone defects was measured, the selected size prosthesis was recorded, and the surgery was performed (group A).
+doc1	7	The actual acetabular bone defect area and the prosthesis size were also recorded (group B).
+doc1	8	The comparative results indicated that the actual acetabular defect area measured intraoperatively and the area measured using the 3D printing technology did not significantly differ for all participants (all P>0.05).
+doc1	9	Preoperative model can accurately measure the acetabular bone defect area for DDH.
+doc1	10	It is significant to develop individualized implants for DDH patients treated with the 3D printing technique.
+doc1	11	<b><i>Level of Evidence IV: Case series</i></b> .
+doc2	1	It is estimated that headache attributed to ischemic stroke occurs in 7.4% to 34% of the cases.
+doc2	2	Despite its frequency, this headache has been little studied in terms of its risk factors and characteristics.
+doc2	3	To assess the frequency and clinical characteristics of headache attributed to ischemic stroke and the factors associated with its occurrence.
+doc2	4	The present was a cross-sectional study which included patients consecutively admitted within 72 hours of the onset of ischemic stroke.
+doc2	5	A semi-structured questionnaire was used.
+doc2	6	The patients underwent magnetic resonance imaging.
+doc2	7	A total of 221 patients were included, 68.2% of whom were male, and the mean age was of 68.2 ±  13.8 years.
+doc2	8	The frequency of headache attributed to ischemic stroke was of 24.9% (95% confidence interval [95%CI]: 19.6-31.1%).
+doc2	9	The headache had a median duration of 21 hours and most frequently began at the same time as the focal deficit (45.3%), with a gradual onset (83%).
+doc2	10	It was of moderate intensity, pulsatile (45.3%), bilateral (54.6%), and presented a similar pattern to that of tension-type headache (53.6%).
+doc2	11	Headache attributed to stroke was significantly associated with previous tension-type headache, and previous migraine with and without aura (logistic regression).
+doc2	12	Headache attributed to stroke is common, with a pattern similar to that of tension-type headache, and it is associated with a history of tension-type and migraine headaches.
+doc3	1	Acetaminophen has been used clinically in horses alone or combined with traditional non-steroidal anti-inflammatory drugs for treatment of musculoskeletal pain in horses.
+doc3	2	To determine the pharmacokinetics and efficacy of acetaminophen at two doses in horses with mechanically induced lameness compared with phenylbutazone or placebo control.
+doc3	3	In vivo experiment.
+doc3	4	Nine healthy mares with mechanical lameness induced via a reversible sole pressure horseshoe model were treated with acetaminophen (20 mg/kg PO; A20), acetaminophen (30 mg/kg PO; A30), phenylbutazone (2.2 mg/kg, PO; PB) and oral placebo (C) in a randomised four-way Latin square model.
+doc3	5	Plasma concentrations for A20 and A30 were analysed via LC-MS/MS and noncompartmental pharmacokinetic analysis.
+doc3	6	Heart rate and heart rate variability were measured using a portable telemetry.
+doc3	7	Lameness was scored by three blinded boarded equine surgeons using the AAEP and 10-point scales.
+doc3	8	Mean maximum plasma concentration (C<sub>max</sub> ) for A20 was 20.01 μg/ml within 0.66 h (T<sub>max</sub> ) after administration; The mean C<sub>max</sub> for A30 was 30.02 μg/ml with a T<sub>max</sub> of 0.43 h. Post-treatment heart rate for A30 was significantly lower than A20 at 1 and 7 h; lower than PB at 2, 3, 4.5 and 7 h; lower than C at 2, 3.5, 4.5, 6, 7 and 8 h. 10-point Lameness scores were significantly improved for A30 than C at 2 and 4 h post-treatment; PB was significantly improved than C at 8 h post treatment.
+doc3	9	There were no significant differences in lameness between A20, A30 and PB.
+doc3	10	Small sample size, lack of objective lameness measurement.
+doc3	11	Acetaminophen at 30 mg/kg produced a more rapid improvement in lameness scores and heart rate compared with other treatments in this model.
+doc3	12	Further evaluation of the pharmacokinetics and safety of repeated oral dosing of acetaminophen at 30 mg/kg is needed to determine clinical utility.
+doc4	1	The inter-relationship between equine thoracolumbar motion and muscle activation during normal locomotion and lameness is poorly understood.
+doc4	2	To compare thoracolumbar and pelvic kinematics and longissimus dorsi (longissimus) activity of trotting horses between baseline and induced forelimb (iFL) and hindlimb (iHL) lameness.
+doc4	3	Controlled experimental cross-over study.
+doc4	4	Three-dimensional kinematic data from the thoracolumbar vertebrae and pelvis, and bilateral surface electromyography (sEMG) data from longissimus at T14 and L1, were collected synchronously from clinically nonlame horses (n = 8) trotting overground during a baseline evaluation, and during iFL and iHL conditions (2-3/5 AAEP), induced on separate days using a lameness model (modified horseshoe).
+doc4	5	Motion asymmetry parameters, maximal thoracolumbar flexion/extension and lateral bending angles, and pelvis range of motion (ROM) were calculated from kinematic data.
+doc4	6	Normalised average rectified value (ARV) and muscle activation onset, offset and activity duration were calculated from sEMG signals.
+doc4	7	Mixed model analysis and statistical parametric mapping compared discrete and continuous variables between conditions (α = 0.05).
+doc4	8	Asymmetry parameters reflected the degree of iFL and iHL.
+doc4	9	Maximal thoracolumbar flexion and pelvis pitch ROM increased significantly following iFL and iHL.
+doc4	10	During iHL, peak lateral bending increased towards the nonlame side (NLS) and decreased towards the lame side (LS).
+doc4	11	Longissimus ARV significantly increased bilaterally at T14 and L1 for iHL, but only at LS L1 for iFL.
+doc4	12	Longissimus activation was significantly delayed on the NLS and precipitated on the LS during iHL, but these clear phasic shifts were not observed in iFL.
+doc4	13	Findings should be confirmed in clinical cases.
+doc4	14	Distinctive, significant adaptations in thoracolumbar and pelvic motion and underlying longissimus activity occur during iFL and iHL and are detectable using combined motion capture and sEMG.
+doc4	15	For iFL, these adaptations occur primarily in a cranio-caudal direction, whereas for iHL, lateral bending and axial rotation are also involved.
+doc7	1	Motorcycle accidents constitute a public health problem that affects public and private health services due to the expenses of the victim's treatment and rehabilitation.
+doc7	2	Evaluate the impact of motorcycle accident costs in a university hospital in 2020.
+doc7	3	Comparative analysis of the costs of motorcycle accident patients in 2020 and 2017.
+doc7	4	Among 151 patients included in the study, the average cost was U$3,083.54, and the average days of hospitalization were 5.3 days.
+doc7	5	The patient with the highest cost to the hospital spent U$22,504.05, and the patient with the lowest cost spent U$356.72.
+doc7	6	The longest stay among these patients was 41 days, and the shortest was one day.
+doc7	7	The average cost per patient per day for the entire sample was U$581.80.
+doc7	8	The formulation and application of strategies that promote the reduction of motorcycle accidents in the city of Campinas are necessary.
+doc7	9	<i><b>Level of evidence II, Retrospective study.</b></i>
+doc8	1	Cognitive deficit in Parkinson disease (PD) is an important cause of functional disability in these patients and early detection, with sensitive instruments, can contribute to longitudinal monitoring.
+doc8	2	To investigate the diagnostic accuracy, sensitivity, and specificity of the Addenbrooke's Cognitive Examination-III in patients with PD, using the comprehensive neuropsychological battery as reference method.
+doc8	3	Cross-sectional, observational, case-control study.
+doc8	4	rehabilitation service.
+doc8	5	A total of 150 patients and 60 healthy controls matched for age, sex, and education.
+doc8	6	For level I assessment, Addenbrooke Cognitive Examination (ACE-III) was used.
+doc8	7	Level II assessment used a comprehensive neuropsychological battery of standardized tests for this population.
+doc8	8	All patients remained in on-state during the study.
+doc8	9	The diagnostic accuracy of the battery was investigated through the receiver operating characteristic (ROC) analysis.
+doc8	10	The clinical group was divided into 3 subgroups: normal cognition in Parkinson's disease (NC-PD-16%), mild cognitive impairment due to Parkinson's disease (MCI-PD-69.33%), and dementia due to Parkinson's disease (D-PD-14.66%).
+doc8	11	ACE-III optimal cutoff scores for detecting MCI-PD and D-PD were 85/100 (sensitivity 58.65%, specificity 60%) and 81/100 points (sensitivity 77.27%, specificity 78.33%), respectively.
+doc8	12	Age was inversely associated with the performance of the scores (totals and domains of the ACE-III), while the level of education had a significantly positive correlation in the performance of these scores.
+doc8	13	ACE-III is a useful battery for assessing the cognitive domains and to differentiate individuals with MCI-PD and D-PD from healthy controls.
+doc8	14	Future research, in a community setting, is necessary to provide discriminatory capacity of ACE-III in the different severities of dementia.
+doc12	1	Persistent headache attributed to past stroke (PHAPS) is a controversial entity, recently included in the third edition of the International Classification of Headache Disorders (ICHD-3) despite being described only in retrospective studies.
+doc12	2	To determine the frequency and characteristics of PHAPS in patients admitted with acute stroke.
+doc12	3	We selected all patients with headache associated with acute stroke (HAAS) from a prospective, single-center registry of patients with acute stroke admitted to a Neurology ward between November 2018 and December 2019.
+doc12	4	We analyzed demographic, clinical, and neuroimaging data.
+doc12	5	We assessed the follow-up with a phone call questionnaire at 6 to 12 months.
+doc12	6	Among 121 patients with acute stroke, only 29 (24.0%) had HAAS.
+doc12	7	From these, 6 (5.0%) were lost to follow-up.
+doc12	8	In total, 23 (20.0%) patients answered the 6- to 12-month follow-up questionnaire and were included in this study.
+doc12	9	The median age of the sample was 53 years (interquartile range [IQR]: 38-78 years), and there was no sex predominance.
+doc12	10	Of the 10 patients (8,3%) that had persistent headache, 8 (6.6%) suffered from previous chronic headaches; however, they all mentioned a different kind of headache, and 1 (0,8%) probably had headache secondary to medication.
+doc12	11	In the present study, only 10 out of 121 stroke patients (8.3%) referred persistent headache at the 6- to 12-month follow-up, but the majority already suffered from previous chronic headache, which raises the question that the actual prevalence of PHAPS may be lower than previously reported.
+doc13	1	The city of Guarapari, known as 'Healthy City', has as its main tourist attraction radioactive sands known as monazite sands.
+doc13	2	There are many studies aimed at quantifying radiation, but little is known about an influence of radiation levels on the life cycle of parasites with zoonotic potential, since many owners take their animals to beaches facilitating a maintenance of their cycle.
+doc13	3	The objective of the present work was to evaluate the association of the sand radiation of the beaches of the municipality of Guarapari and the presence of eggs and larvae of zoonotic potential parasites.
+doc13	4	To determine the influence of the radiation on the parasites, sand and faeces samples were collected from the beaches of Praia do Morro, Areia Preta, Castanheiras, Setiba and Santa Mônica, and how to analyze, use the simple centrifugal-flotation technique.
+doc13	5	The beaches of the present study were classified as low, medium and high radioactivity according to the dose limits that a human being can receive.
+doc13	6	The samples of sand and faeces were grouped according to a classification of the beaches where they were collected as samples.
+doc13	7	After obtaining the result, a Chi-square statistical test was performed at a significance level of 95% to evaluate an association between radiation classes and parasite presence.
+doc13	8	In general, monazitic sands have an influence on the maintenance of the cycle of zoonotic parasites found in beach sand, their correlation being inversely proportional.
+doc14	1	The neutrophil-to-lymphocyte (NLR), monocyte-to-lymphocyte (MLR), platelet-to-lymphocyte ratio (PLR), and red blood cell distribution width (RDW) have been previously studied as predictors of survival in different malignancies.
+doc14	2	The aim of this study was to evaluate the predictive value of these hematologic inflammatory biomarkers for patients with brain metastases (BM).
+doc14	3	We reviewed a consecutive cohort of patients at Instituto do Cancer do Estado de São Paulo (ICESP-FMUSP) from 2011 to 2016 with ≥ 1 BM treated primarily by surgical resection.
+doc14	4	The primary outcome was 1-year survival.
+doc14	5	We optimized the NLR, MLR, PLR, and RDW cutoff values, preserving robustness and avoiding overestimation of effect size.
+doc14	6	A total of 200 patients (mean age 56.1 years; 55.0% female) met inclusion criteria.
+doc14	7	Gross-total resection was achieved in 89.0%.
+doc14	8	The median (quartiles) preoperative and postoperative KPS scores were 60 (50-80) and 80 (60-90), respectively.
+doc14	9	Preoperative NLR was significantly associated with survival (HR 2.66, 95% CI: 1.17-6.01, <i>p</i> = 0.019).
+doc14	10	A NLR cutoff value of 3.83 displayed the most significant survival curve split.
+doc14	11	Preoperative NLR is an independent predictor of survival in newly diagnosed BM.
+doc14	12	We propose a cutoff value of 3.83 for preoperative NLR testing may be clinically useful as predictor of poor survival in this population.
+doc14	13	The wide accessibility of the NLR favors its inclusion in clinical decision-making processes for BM management.
+doc15	1	A cardiopulmonary arrest is a critical event whose survival rate is related to the quality of resuscitation maneuvers combined with the use of technology.
+doc15	2	It is important to understand the perception of fatigue during this procedure, aiming to improve the effectiveness of compressions to increase the chances of survival.
+doc15	3	To apply the Borg rating of perceived exertion scale (Borg scale) to analyze the exertion perceived by nurses during cardiopulmonary resuscitation maneuvers using a feedback device.
+doc15	4	Experimental study with a randomized distribution of nurses in a teaching hospital.
+doc15	5	Perceived exertion during simulated cardiopulmonary resuscitation with/without a feedback device was assessed using the Borg scale.
+doc15	6	The statistical significance level of 5% was adopted.
+doc15	7	69 nurses working in critical and non-critical adult care units were included.
+doc15	8	Perceived exertion and heart rate were lower in the intervention group (p<0.001), influenced by the feedback device, with no significant difference between critical and non-critical units.
+doc15	9	The Borg scale proved to be adequate for the proposed objectives.
+doc15	10	The feedback device contributed to lower exertion and heart rate reduction during resuscitation maneuvers.
+doc15	11	The low cost and ease of application favor its use during training and real-time resuscitation attempts to assess performance using a feedback device to reduce exertion and perception of fatigue.
+doc15	12	It allows reflection on the intervening factors and resources that can influence the quality of resuscitation attempts and the chances of survival.
+doc17	1	The work analyzed the effect of Public Consultations (PC) and their contributions to the recommendations of the National Commission for the Incorporation of Technologies (CONITEC).
+doc17	2	This is a descriptive and retrospective study with a qualitative-quantitative approach using a secondary data source of public access, between 2012 and 2017.
+doc17	3	A database was developed to characterize the PC of medications and their contributions, which allowed the identification of cases of reversals between the preliminary and final recommendation of CONITEC.
+doc17	4	We analyzed the contributions in cases of reversal for characterization of argumentative axes and type of basis.
+doc17	5	Of the 307 demands for incorporation of medications, 205 went through PC, with 23,894 contributions.
+doc17	6	The reversal of the recommendations occurred in 9% of the open PC (15 medications), all in the sense of non-incorporation for incorporation.
+doc17	7	Main argumentative axes dealt with clinical benefits and minor adverse events, with prevalence of the submission of clinical experiences and opinions.
+doc17	8	Advances in the processes of incorporation of technologies in the SUS by performing PC were found and the challenge that decision makers face in institutional spaces for the improvement of social participation to strengthen the public benefit was clear.
+doc18	1	The growing interest for nonpharmacological treatment alternatives to older people with mild cognitive impairment or dementia has increased exponentially for the past few years; in this context, dance therapy is an effective therapeutic tool in improving the cognition of older people.
+doc18	2	The aim of this study was to verify whether dance therapy is a viable tool in promoting benefits with regard to the cognition and mood of older people with cognitive impairment.
+doc18	3	A database search covering the past 10 years was carried out.
+doc18	4	Result: The search found 193 papers; after title, abstract, and duplicity analysis, 14 of those were selected, of which 10 were fully revised.
+doc18	5	The studies showed positive results regarding the improvement of cognitive function after dance stimulations, as well as beneficial effects on the mood of older people with cognitive impairment.
+doc20	1	A case-control study was carried out to estimate risk factors for perinatal mortality in a referral hospital for high-risk pregnancies in Curitiba-PR.
+doc20	2	Sociodemographic, maternal, pregnancy and concept characteristics data were obtained from the hospital records of 316 cases and 316 controls from 2013 to 2017.
+doc20	3	A hierarchical multiple logistic regression analysis was performed, remaining in the final model variables with p < 0.05.
+doc20	4	The results show an increased risk of perinatal death in mothers with blood type B (OR = 2.82; 95%CI: 1.07-7.43), who did not undergo prenatal care (OR = 30.78; 95%CI: 4.23-224.29), fetuses with congenital malformations (OR = 63.90; 95%CI: 27.32-149.48), born under 28 (OR = 24.21; 95%CI: 1, 10-531.81) and between 28-31 weeks of gestation (OR = 6.03; 95%CI: 1.34-27.17) and birth weight below 1,000g (OR = 51.94; 95%CI: 4.31-626.46), between 1,000-1,499g (OR = 11.17; 95%CI: 2.29-54.41) and between 1,500-2,499g (OR = 2.75; 25-6.06).
+doc20	5	Concepts of pregnancies with premature outcome, low birth weight and the presence of congenital malformations are the main risk factors for perinatal death.
+doc20	6	On the other hand, adequate prenatal care is an important protective factor.
+doc11	1	Whether blood eosinophils (bEOS) in chronic obstructive pulmonary disease (COPD) are associated with disease progression is a topic of debate.
+doc11	2	We aimed to evaluate whether the differential white blood cell (WBC) count, symptoms and treatment may predict lung function decline and exacerbations in COPD patients.
+doc11	3	We retrospectively examined stable COPD patients with a minimum follow-up of 3 years at our outpatients' clinic.
+doc11	4	We collected information about lung volumes (FEV1, FVC), the total and differential WBC count, acute exacerbations of COPD (number in the 12 months before the beginning of the study=AE-COPD-B, and during the follow-up=AE-COPD-F), smoking status and treatment.
+doc11	5	FEV1 decline and AE-COPD-F were described by using a generalized linear model and a 2-level random intercept negative binomial regression, respectively.
+doc11	6	The models included eosinophil and neutrophil counts as potential predictors and were adjusted by sex, age, smoking status, AE-COPD-B, treatment with bronchodilators and inhaled corticosteroids (ICS).
+doc11	7	Sixty-eight patients were considered, 36 bEOS- (<170 cells/μL, the median value) and 32 bEOS+ (≥170 cells/μL).
+doc11	8	∆FEV1 was higher in bEOS+ than bEOS- (34.86 mL/yr vs 4.49 mL/yr, p=0.029).
+doc11	9	After adjusting for potential confounders, the eosinophil count was positively (β=19.4; CI 95% 2.8, 36.1; p=0.022) and ICS negatively (β=-57.7; CI 95% -91.5,-23.9; p=0.001) associated with lung function decline.
+doc11	10	bEOS were not found to be associated with the number of AE-COPD-F. In stable COPD patients, a higher level of blood eosinophils (albeit in the normal range) predicts a greater FEV1 decline, while ICS are associated with a slower progression of airflow obstruction.
+doc22	1	The Faculty of Health Sciences at the Universitat Oberta de Catalunya (Barcelona, Spain) was officially designated a 'World Health Organization (WHO) Collaborating Centre in eHealth' on 5 April 2018.
+doc22	2	The Centre aims to provide support to countries willing to develop new telemedicine services; to promote the use of eHealth; and to study the adoption and use of mobile health in countries of both the Region of the Americas and Europe.
+doc22	3	On 11 March 2020, WHO declared COVID-19 a global pandemic given the significant increase in the number of cases worldwide.
+doc22	4	Since then, the Centre has played an important role in addressing COVID-19 by undertaking fruitful cooperative activities.
+doc22	5	Lockdowns and social distancing in response to the high contagion rate of COVID-19 were the main triggers for a challenging digital transformation in many sectors, especially in healthcare.
+doc22	6	In this extreme crisis scenario, the rapid adoption of digital health solutions and technological tools was key to responding to the enormous pressure on healthcare systems.
+doc22	7	Telemedicine has become a necessary component of clinical practice for the purpose of providing safer patient care, and it has been used to support the healthcare needs of COVID-19 patients and routine primary care patients alike.
+doc22	8	This article describes the Centre's contribution to the work of the Pan American Health Organization (PAHO) and WHO in supporting Latin American and European countries to develop new telemedicine services and guidance on how to address COVID-19 through digital health solutions.
+doc22	9	Future actions are also highlighted.
+doc23	1	To verify strategies for the prevention and treatment of abstinence syndrome in a pediatric intensive care unit.
+doc23	2	This is a systematic review in the PubMed database®, Lilacs, Embase, Web of Science, Cochrane, Cinahl, Cochrane Database Systematic Review and CENTRAL.
+doc23	3	A three-step search strategy was used for this review, and the protocol was approved in PROSPERO (CRD42021274670).
+doc23	4	Twelve articles were included in the analysis.
+doc23	5	There was great heterogeneity among the studies included, especially regarding the therapeutic regimens used for sedation and analgesia.
+doc23	6	Midazolam doses ranged from 0.05mg/kg/hour to 0.3mg/kg/hour.
+doc23	7	Morphine also varied considerably, from 10mcg/kg/hour to 30mcg/kg/hour, between studies.
+doc23	8	Among the 12 selected studies, the most commonly used scale for the identification of withdrawal symptoms was the Sophia Observational Withdrawal Symptoms Scale.
+doc23	9	In three studies, there was a statistically significant difference in the prevention and management of the withdrawal syndrome due to the implementation of different protocols (p < 0.01 and p < 0.001).
+doc23	10	There was great variation in the sedoanalgesia regimen used by the studies and the method of weaning and evaluation of withdrawal syndrome.
+doc23	11	More studies are needed to provide more robust evidence about the most appropriate treatment for the prevention and reduction of withdrawal signs and symptoms in critically ill children.
+doc23	12	CRD 42021274670.
+doc24	1	To verify the test-retest reliability of the Masking Level Difference in normal hearing female university students.
+doc24	2	Prospective descriptive study with 78 young female adults without hearing complaints, submitted to the compact disc version of the Masking Level Difference by Auditec of Saint Louis.
+doc24	3	The threshold was determined by the difference between signal-to-noise ratios at hearing thresholds found in the antiphasic and homophasic conditions.
+doc24	4	The test was applied by the same examiner in two moments (test and retest) with an interval of seven to 14 days between them.
+doc24	5	Inferential statistical analysis included comparison of test and retest situations using Student's t test for paired samples, calculation of the intraclass correlation coefficient and calculation of 95% confidence intervals for signal-to-noise ratios at hearing thresholds found in the antiphasic and homophasic conditions and for masking level difference.
+doc24	6	The average signal-to-noise ratio at hearing threshold ​​in the homophasic condition was -12.59 dB and -12.46 dB in the Test and Retest situations, respectively, and -21.54 dB and -21.08 dB in the antiphasic condition.
+doc24	7	The average value ​​in the final Masking Level Difference result was 8.95 dB in the Test and 8.74 dB in the Retest.
+doc24	8	Intraclass correlation coefficient values ​​obtained were 0.436, 0.625 and 0.577 for homophasic, antiphasic and Masking Level Difference conditions, respectively.
+doc24	9	The Masking Level Difference showed moderate test-retest reliability in normal hearing adults female university students.
+doc25	1	to identify linguistic performance (expressive vocabulary, phonology and narrative) and cognitive performance (Verbal Short-Term Memory (VSTM)) of preschoolers living in a quilombola community.
+doc25	2	Twenty-four quilombola preschoolers aged four (4) and five (5) years with no complaints in language development participated in the study.
+doc25	3	Most families were in the D-E class and maternal and paternal education was lower than high school.
+doc25	4	Their guardians answered a questionnaire about their previous development, family practices and socioeconomic aspects, while the assessment included tests of expressive vocabulary, phonology, narrative and verbal short-term memory.
+doc25	5	The data collected were subjected to descriptive statistical analysis to characterize family practices, socioeconomic aspects and linguistic and cognitive performance, inferential analysis used Fisher's exact test to compare performance between subjects aged 4 and 5 years and also to compare performance according to family practices.
+doc25	6	78.3% of preschoolers performed adequately in vocabulary and 79.2% in phonology; and 63.6% had the narrative classified as descriptive.
+doc25	7	82.6% had a VSTM task performance below the expected for age.
+doc25	8	Although the preschoolers in this study had functional communication, their profile of language development and cognitive skills was more vulnerable and may have an impact on their school trajectory.
+doc27	1	To determine the effect of the inclusion method on the histomorphometric evaluation of the gastrointestinal mucosa of horses, jejunum samples were collected using flank laparotomy.
+doc27	2	Sixteen mixed breed healthy adult horses, including four males and 12 females, aged 4-14 years with an average body weight of 248.40 ± 2.28 kg, were used.
+doc27	3	Jejunal biopsies were collected and analyzed by light microscopy using two methods: group 1 comprised biopsies fixed using 10% neutral formalin and embedded in paraffin; biopsies in group 2 were fixed in 2.5% glutaraldehyde in 0.1 M phosphate buffer pH 7.2, followed by inclusion in glycol methacrylate (GMA)-based plastic resin.
+doc27	4	Intestinal villi height, crypt depth, glandular mucosa thickness, total mucosal thickness, and villus/crypt ratio were then evaluated.
+doc27	5	For all the variables studied, with exception of the villus/crypt ratio, a significant difference (p < 0.05) was found between samples in groups 1 and 2.
+doc27	6	Processing samples for embedding in plastic resin was quicker and easier to perform compared to that for paraffin embedding.
+doc27	7	In addition, the epithelial lining of tissues in group 2 showed better resolution for conducting cytological studies under a light microscope.
+doc27	8	The difference between the studied variables can be attributed to tissue retraction caused by conventional processing for inclusion in paraffin.
+doc27	9	Therefore, the method of inclusion in GMA described in the present study appears to be a more reliable choice for morphometric evaluation of the intestinal mucosa of horses.
+doc30	1	Establishing the definitive diagnosis of a neurogenetic disease is usually a complex task.
+doc30	2	However, like any type of clinical diagnostic reasoning, an organized process of development and consideration of diagnostic hypotheses may guide neurologists and medical geneticists to solve this difficult task.
+doc30	3	The aim of the present review is to propose a general method for diagnostic reasoning in neurogenetics, with the definition of the main neurological syndrome and its associated topographical diagnosis, followed by the identification of major and secondary neurological syndromes, extraneurological findings, and inheritance pattern.
+doc30	4	We also discuss general rules and knowledge requirements of the ordering physician to request genetic testing and information on how to interpret genetic variants in a genetic report.
+doc30	5	By guiding the requests for genetic testing according to an organized model of diagnostic reasoning and with the availability of specific treatments, clinicians may find greater resoluteness and efficacy in the diagnostic investigation, shortening the struggle of patients for a definitive diagnosis.
+doc31	1	Endoscopic submucosal dissection (ESD) has been proposed for removal of gastrointestinal subepithelial tumors (GI-SETs), but data are still scanty.
+doc31	2	This study aimed to report a case series from a western country.
+doc31	3	Data of patients with upper GI-SETs suitable for ESD removal observed in 4 centers were retrospectively reviewed.
+doc31	4	Before endoscopic procedure, the lesion was characterized by endosonographic evaluation, histology, and CT scan.
+doc31	5	The <i>en bloc</i> resection and the R0 resection rates were calculated, as well as incidence of complications, and the 1-year follow-up was reported.
+doc31	6	Data of 84 patients with esophageal (<i>N</i> = 13), gastric (<i>N</i> = 61), and duodenal (<i>N</i> = 10) GI-SETs were collected.
+doc31	7	The mean diameter of lesions was 26 mm (range: 12-110 mm).
+doc31	8	There were 17 gastrointestinal stromal tumors, 12 neuroendocrine tumors, 35 leiomyomas, 18 lipomas, and 2 hamartomas.
+doc31	9	<i>En bloc</i> and R0 resection were achieved in 83 (98.8%) and in 80 (95.2%) patients, respectively.
+doc31	10	Overall, a complication occurred in 11 (13.1%) patients, including bleeding (<i>N</i> = 7) and perforation (<i>N</i> = 4).
+doc31	11	Endoscopic approach was successful in all bleedings, but 1 patient who required radiological embolization, and in 2 perforations, while surgery was performed in the other patients.
+doc31	12	Overall, a surgical approach was eventually needed in 5 (5.9%), including 3 in whom R0 resection failed and 2 with perforation.
+doc31	13	Our study found that ESD may be an effective and safe alternative to surgical intervention for both benign and localized malignant GI-SETs.
+doc32	1	Quality of work life is understood to be directly linked to the level of satisfaction of an individual with the execution of his or her tasks.
+doc32	2	Workplace physical activity is an important activity that aims to relax the muscle groups most used in occupational tasks, to increase workers' enthusiasm, and to reduce sickness absenteeism, thus contributing to improvements in quality of life.
+doc32	3	This study aimed to analyze the effects of the implantation of workplace physical activity protocols at companies.
+doc32	4	We performed a literature review in the LILACS, SciELO, and Google Scholar databases using the following keywords: 'quality of life,' 'exercise therapy,' and 'occupational health.' With this search, we obtained 73 studies, of which 24 were selected afer reading the titles and abstracts.
+doc32	5	Afer full reading of the studies and applying eligibility criteria, 16 articles were excluded and the remaining eight were used in this review.
+doc32	6	By analyzing these eight studies, we were able to verify the benefits of workplace physical activity in improving quality of life, reducing pain intensity and frequency, and preventing occupational diseases.
+doc32	7	Workplace physical activity programs, when performed at least three times a week, provide various benefits to workers' health and wellbeing, especially in the reduction of aches and pains and musculoskeletal discomfort, which directly influences improvements in quality of life.
+doc35	1	To verify the influence of a taste stimulus on the suction pressure, during the non-nutritive sucking (SNN), in newborns, healthy and with weight appropriate to the gestational age.
+doc35	2	Quasi-experimental study of the non-randomized clinical trial type with a convenience sample of 60 newborns (NB), 30 allocated in the study group (EG) and 30 in the control group (CG).
+doc35	3	The NB were evaluated for sucking pressure during the SNN in a pacifier.
+doc35	4	For the EG, a gustatory stimulus was added to the pacifier, moistened with colostrum.
+doc35	5	The CG did not receive any stimulus, other than the pacifier itself.
+doc35	6	The average, minimum and maximum pressures were measured with the equipment S-Flex®.
+doc35	7	The SG presented mean and maximum sucking pressure significantly higher than the CG.
+doc35	8	In addition, there was a statistically significant difference between the groups for the second measurement of mean sucking pressure.
+doc35	9	The results showed that the NB of the SG presented sucking pressures, average and maximum, significantly higher, when compared to the CG.
+doc35	10	The use of a taste stimulus associated with SNN modified the sucking pressure and seems to enhance oral skills.
+doc36	1	This article aims to describe the distribution of cancer among the benefits granted by the General Social Security Registry, from 2008 to 2014, in Brazil.
+doc36	2	Ecological study using data given by the National Social Security Institute.
+doc36	3	The proportion of accidental (work-related) and social security (general) benefits granted by cancer in Brazil was determined, among the benefits granted for all causes, and a spatial analysis was conducted to assess the geographical distribution of these proportions, with the states Brazilians as a unit of analysis.
+doc36	4	Cancer was the reason for granting 533,438 benefits (2.9% of the total benefits granted for all causes), with a predominance of females in social security benefits (53.7%) and males in accidental benefits (71.6 %).
+doc36	5	The highest proportions of social security benefits for cancer occurred in North and Midwest regions.
+doc36	6	In 19 of the 26 Brazilian states (including all states in the southern region) and in the Federal District, there was no granting of accident benefits for cancer.
+doc36	7	The analysis of the occurrences of cancer that generated benefit concessions suggests a disproportionality in granting of social security benefits in relation to accident workers, mainly in North, Northeast and South regions of Brazil.
+doc37	1	To present the Myofunctional Orofacial Clinical Examination Protocol belonging to the MMBGR Protocol - Infants and Preschoolers, including its validation.
+doc37	2	Initially, test content-based validity was evaluated from the MBGR Protocol to be used with the age group between 6 and 71 months based on the bibliography and experience between the authors (original and current).
+doc37	3	For the content and appearance analysis, 10 speech therapists specialized in Orofacial Motricity attended and filled out an electronic form with dichotic and Likert scale questions in two moments.
+doc37	4	We used the Content Validity Index and the Exact Binomial Test.
+doc37	5	Then there was a validity based on the response processes analysis followed by a reliability of the Clinical Examination with 155 participants by 7 experienced and calibrated speech therapists, and the examiners between and within agreement was verified by the Intraclass Correlation Coefficient.
+doc37	6	There were additions, modifications, and exclusions of items according to the age group, resulting in the Myofunctional Orofacial Clinical Examination Protocol for Infants and Preschoolers, which obtained 90.5% agreement; and 100% of the appropriate scores by at least 90% of the specialists.
+doc37	7	In reliability, most items of the Extraoral and Intraoral Examination and Chewing obtained a reasonable to good, or even excellent, agreement.
+doc37	8	The 'Clinical Myofunctional Clinical Examination' was validated based on the test content, response process, and reliability and, along with the 'Instructional' and the 'Clinical History' is part of the 'MMBGR Protocol - Infants and Preschoolers' for speech therapy activities in the age group between 6 and 71 months of age.
+doc19	1	The article aims to estimate the incidence and worsening of back pain (BP) during the first wave of COVID-19 in Brazil, as well as to investigate demographic, socioeconomic factors and associated changes in living conditions.
+doc19	2	ConVid - Behavior Research, applied between April and May 2020, was used as data source.
+doc19	3	The number and distribution of respondents who developed BP and those who had a worsening of the preexisting problem, their 95% confidence intervals and Pearson's Chi-square test were estimated.
+doc19	4	The odds ratio of developing BP or worsening a preexisting problem was also estimated using multiple logistic regression models.
+doc19	5	Pre-existing BP was reported by 33.9% (95%CI 32.5-35.3) of respondents and more than half (54.4%; 95%CI 51.9-56.9) had worsened.
+doc19	6	The cumulative incidence of BP in the first wave of the pandemic was 40.9% (95%CI 39.2-42.7).
+doc19	7	Being a woman, the perceived increase in housework and the frequent feeling of sadness or depression were associated with both outcomes.
+doc19	8	Socioeconomic factors were not associated with any of outcome.
+doc19	9	The high incidence and worsening of BP during the first wave reveal the need for studies in more recent periods, given the long duration of the pandemic.
+doc33	1	Glycerinated allergen extracts contain 50% glycerin, an excellent preservative.
+doc33	2	While glycerin is a recognised irritant in humans, the utility of glycerinated extracts for intradermal testing has not been validated in dogs.
+doc33	3	To determine and compare the effects of glycerin on immediate cutaneous reactions to intradermal injections of histamine and saline in healthy dogs.
+doc33	4	Eight healthy laboratory beagles.
+doc33	5	The study was designed as a randomised, blinded study.
+doc33	6	Intradermal injections of histamine (positive control) and saline (negative control) in aqueous and glycerinated (50%) forms were performed on the right thorax.
+doc33	7	Global wheal scores (GWS) at 20 min were evaluated by two independent investigators blinded to the interventions.
+doc33	8	There were no wheal and flare reactions observed after the intradermal injections of phenolated saline.
+doc33	9	By contrast, 50% glycerosaline injections induced erythema and induration in all dogs.
+doc33	10	Global wheal scores were significantly higher in aqueous histamine (Friedman test, p < 0.0001) and 50% glycerinated histamine (Friedman test, p = 0.0084) compared to phenolated saline controls.
+doc33	11	Interestingly, only aqueous histamine (Friedman test, p = 0.01) had significantly higher GWS than 50% glycerosaline injections, while no significant difference in GWS between 50% glycerinated histamine and 50% glycerosaline groups was observed (Friedman test, p = 0.59).
+doc33	12	This study demonstrates that intradermal injection of 50% glycerosaline induces erythema and induration skin reactions in healthy dogs that can mimic positive reactions to allergenic extracts.
+doc33	13	Further dilutions of glycerinated positive and negative control solutions need to be optimised for intradermal testing in dogs.
+doc6	1	The aim of our work is to review those patients who underwent prosthetic hip revision surgery in our hospital considered to be patients at high risk of dislocation or recurrent dislocation, and who underwent a double mobility cemented cup (CMD).
+doc6	2	Analyzing the different ways to place these cups and the clinical results and reluxations.
+doc6	3	The 69 cases comprised 34 men and 35 women with a mean age of 77,39 years.
+doc6	4	The mean follow-up was 4.7536 years.
+doc6	5	The type of intervention performed varied according to the cause of the intervention, the acetabular bone stock and the state of the primary cup.
+doc6	6	In the cases in which there was a good fixation of the primary metalback, we opted to carry out a cementation of the cemented DMC into the existing well-fixed metal acetabular shell, this occurred in 23 cases.
+doc6	7	In the cases where there was loosening of the primary cup but there was a good bone stock, a CMD was cemented into the bone (21 cases).
+doc6	8	In the cases where there was a Paprosky type III we cemented a DMC to a Bursch-Schneider reinforcement ring together with the placement of a cancellous bone graft (25 cases).
+doc6	9	The clinical evaluation at the end of the follow-up, according to the MD Scale, showed the mean value was 16.454 (SD 0.79472), with a survival at the end of the follow-up of 100% of the placed DMC.
+doc6	10	The use of cemented DMC is a good solution in the replacement of THA, especially in cases of reluxation or risk of dislocation due to personal or technical predisposing factors.
+doc6	11	The use of these DMC cemented can be directly to the bone, into the existing well-fixed metal Shell, or cemented to a reinforcing ring, depending on the acetabular defect.
+doc6	12	<i><b>Evidence Level III; Comparative Case Series</b></i> .
+doc34	1	The Creutzfeldt-Jakob disease (CJD) is a spongiform encephalopathy that manifests as a rapidly progressive dementia syndrome.
+doc34	2	Currently, CJD has no cure, and many patients die within the first year, but some drugs are being studied as options for managing this condition.
+doc34	3	To evaluate the effectiveness of pharmacological treatments offered to patients with CJD as a means to increase survival and reduce cognitive deterioration.
+doc34	4	A systematic review of the literature was performed using 4 independent reviewers and 1 extra reviewer to resolve possible divergences in the search and analysis of papers indexed in MedLINE (PubMed), SciELO and Lilacs databases.
+doc34	5	The Medical Subject Heading (MeSH) terms used were: <i>prion diseases</i>, <i>Creutzfeldt-Jakob disease</i>, <i>pharmacologic therapy</i>, <i>therapeutics</i>, <i>quinacrine</i>, <i>doxycycline</i>, <i>flupirtine</i>, and <i>pentosan polysulfate</i>, with the Boolean operators <i>AND</i> and <i>OR</i>. This search included controlled clinical trials, uncontrolled clinical trials, and case series published from the year 2000 onwards, in the English language.
+doc34	6	A total of 85 papers were found using the descriptors used.
+doc34	7	At the end of the selection analyses, 9 articles remained, which were analyzed fully and individually.
+doc34	8	None of the drugs evaluated proved significantly effective in increasing survival in patients with CJD.
+doc34	9	Flupirtine appears to have a beneficial effect in reducing cognitive deterioration in patients with CJD.
+doc34	10	However, additional studies are needed to establish better evidence and therapeutic options for the management of patients with CJD.
+doc40	1	To identify relationships between Remote Microphone System (RMS) use in the classroom and the schools' and teachers' characteristics.
+doc40	2	We analyzed 120 subjects aged 5 to 17 years with hearing loss who had received an RMS from a health service accredited by the Unified Health System (SUS).
+doc40	3	The teachers of RMS users were the other subjects in the study.
+doc40	4	We analyzed the patients' medical records and interviewed their parents/guardians at the follow-up visit to verify issues related to the RMS and its use at school.
+doc40	5	We contacted the schools over the phone and visited some of them. Of the students, 54% used the device at school; 22% involuntarily did not use it; and 24% voluntarily did not use it.
+doc40	6	The Speech Intelligibility Index pattern of those who used the RMS was similar to those who involuntarily did not use it.
+doc40	7	There was a significant difference between the type of school and educational level - 86% of regular school students and elementary school students tend to use the device more often (62%).
+doc40	8	Most subjects use the RMS at school.
+doc40	9	The students' educational level also interfered with the adherence to RMS use, as elementary school students had a higher adherence.
+doc40	10	The data suggest that the coordination between health services and schools favors RMS use.
+doc40	11	However, when the parents mediate this relationship, other factors interfere with the systematic RMS use in the school routine.
+doc43	1	to describe the years of potential life lost (YPLL) due to AIDS among the female population and analyze its association with race/skin color and social vulnerability indicators in Porto Alegre, capital city of the state of Rio Grande do Sul, Brazil.
+doc43	2	this was a descriptive study that took into consideration AIDS deaths in female between 2007 and 2017; data were obtained from the Mortality Information System; crude values and YPLL rates per 1,000 deaths were calculated, taking into consideration health districts and race/skin color. of the 1,539 deaths, approximately 51,000 years of potential life were estimated, representing 86.5 years lost/1,000 female; it could be seen a higher proportion of deaths among female of White race/ skin color (53.4%); however, a higher rate of YPLL was found among female of Black and mixed race/skin color living in regions of greater vulnerability.
+doc43	3	the results suggest the impact of racial inequalities on the decrease in years of potential life due to AIDS deaths.
+doc44	1	Although variation between observers in the assessment of the Apgar score, it remains a useful indicator of the general conditions of the newborn.
+doc44	2	This is a cross-sectional study based on population of live births in Brazil in 1999 and biennium 2018-2019.
+doc44	3	All declarations of live births (DNV) obtained from the Live Births System database were accessed.
+doc44	4	Frequencies were compared between groups using Pearson's chi-square test and multivariate logistic regression analysis was performed.
+doc44	5	A statistical significance level of 0.05 was considered.
+doc44	6	We included 9.050.521 DNVs in our research.
+doc44	7	We found that 2,1% of newborns had 5th minute Apgar < 7 in 1999 compared with 0,9% in 2018-2019.
+doc44	8	Multivariate analysis shows that twins and teenage pregnancy are no longer risk factors.
+doc44	9	Among risk factors, we observed an increase in prematurity, low birth weight and congenital anomalies.
+doc44	10	An improvement in maternal markers was observed, especially increase in the number of prenatal consultations and schooling.
+doc44	11	Such findings demonstrate the importance access and adequate prenatal care and improved socioeconomic conditions as effective strategy to reduce neonatal morbidity and mortality.
+doc46	1	At the beginning of the medical career, the orthopedic surgeon in academic training needs valid methodologies for training complex surgeries in tissues that simulate real situations.
+doc46	2	With training in animal tissue, adapted to approach human tissue, it is possible to simulate procedures and decisions that will be necessary in real situations.
+doc46	3	This study consists in presenting a simple and reproducible simulation model for surgical repair of tendons by training on fresh tendons fixed on a wooden frame.
+doc46	4	The model construction consists of a flat piece of Medium Density Fiberboard (MDF) and two threaded hooks were used on the board, to which Nylon threads are attached to tie the tendon, allowing a satisfactory simulation of a human tendon.
+doc46	5	This is a simple, inexpensive, and effective method for tendon suturing training, through which the trainee can develop repair techniques and basic surgical principles, such as instrument handling, safety, and sharps disposal.
+doc46	6	This approach aims to improve the trainee's skills and dexterity when placed in live surgery.
+doc46	7	The surgical techniques developed include the modified Kessler and Bunnel sutures.
+doc46	8	<b><i>Level of Evidence IV, Descriptive Study</i></b> .
+doc41	1	The consolidation of new educational paradigms requires the implementation of innovative strategies to transform students into competent professionals.
+doc41	2	To assess knowledge and satisfaction of medical students before and after the use of a new humanized digital model of active learning, called virtual case-based learning (VCBL).
+doc41	3	This was a descriptive, documentary analysis of the teaching-learning process of medical students.
+doc41	4	Data obtained from theoretical knowledge assessment and satisfaction evaluation questionnaires applied in 2018 and 2019 were analyzed, and the new VCBL was compared with the traditional active methodology PBL (problem-based learning).
+doc41	5	Descriptive and association analyses were made using the Statistical Package for the Social Sciences.
+doc41	6	A total of 167 evaluation forms administered to medical students were analyzed.
+doc41	7	In the evaluation of theoretical knowledge, the 2018 and the 2019 student groups had a mean of 41.7% and 73.3%, respectively (p<0.001).
+doc41	8	Among the students who responded to the satisfaction evaluation form, 76.0% gave the highest rating to question one, and 83.0% to question two.
+doc41	9	Nearly 70.0% of students positively evaluated knowledge acquisition with the Paciente 360 platform; 78.0% reported to feel prepared for working in outpatient care; and 94.0% positively evaluated the new method.
+doc41	10	In this initial study, the results indicate that the new active method for humanized digital medical education, the VCBL, can help in the betterment of the teaching-learning process, promoting knowledge and satisfaction by the students.
+doc47	1	To compare the efficacy of quadratus lumborum (QL) block and intrathecal morphine (M) for postcesarean delivery analgesia.
+doc47	2	Thirty-one pregnant women with ≥ 37 weeks of gestation submitted to elective cesarean section were included in the study.
+doc47	3	They were randomly allocated to either the QL group (12.5 mg 0.5% bupivacaine for spinal anesthesia and 0.3 ml/kg 0.2% bupivacaine for QL block) or the M group (12.5 mg bupivacaine 0.5% and 100 mcg of morphine in spinal anesthesia).
+doc47	4	The visual analog scale of pain, consumption of morphine and tramadol for pain relief in 48 hours, and side effects were recorded.
+doc47	5	Median pain score and/or pain variation were higher in the morphine group than in the QL group (<i>p</i> = 0.02).
+doc47	6	There was no significant difference in the consumption of morphine or tramadol between groups over time.
+doc47	7	Side effects such as pruritus, nausea, and vomiting were observed only in the morphine group.
+doc47	8	Quadratus lumborum block and intrathecal morphine are effective for analgesia after cesarean section.
+doc47	9	Patients undergoing QL block had lower postoperative pain scores without the undesirable side effects of opioids such as nausea, vomiting, and pruritus.
+doc38	1	Definitions of left ventricular ejection fraction (LVEF) cut-off values for HF with mildly reduced LVEF (HFmrEF) have been a subject of debate, in the face of evidence that some drugs used in the treatment of HF with LFEV < 40% (HFrEF) are also effective in patients with LVEF < 60%.
+doc38	2	The aim of this study was to compare overall survival and cardiovascular survival in HF patients with LVEF of 40-59% in patients with HFrEF and HF with LVEF ≥ 60%.
+doc38	3	Patients with decompensated HF who met the Framingham diagnostic criteria at hospital admission between 2009 and 2011 were included.
+doc38	4	Patients were divided into HFrEF, HF with LVEF 40-59%, and HF with LVEF ≥ 60%.
+doc38	5	The Kaplan-Meier was used to determine ten-year overall survival and cardiovascular survival.
+doc38	6	The statistical significance was established at p<0.05.
+doc38	7	A total of 400 patients were included, with a mean age of 69 ± 14 years.
+doc38	8	Cardiovascular survival in patients with HF and LVEF of 40-59% was not significantly different than in patients with HFrEF (adjusted Hazard Ratio [HR] 0.86; 95% Confidence Interval [CI] 0.61-1.22, Ptrend = NS), but was statistically different compared with patients with LVEF ≥ 60% (adjusted HR of 0.64; 95% CI 0.44-0.94, Ptrend = 0.023).
+doc38	9	No difference was found in 10-year survival between the LVEF groups.
+doc38	10	Patients with HF and LVEF ≥ 60% had significantly higher cardiovascular survival compared with the other groups.
+doc5	1	Plasma exchange (PLEX) is a therapeutic apheresis modality in which the plasma is separated from inflammatory factors such as circulating autoreactive immunoglobulins, the complement system, and cytokines, and its therapeutic effect is based on the removal of these mediators of pathological processes.
+doc5	2	Plasma exchange is well established for various neurological disorders, and it is applied successfully in central nervous system inflammatory demyelinating diseases (CNS-IDD).
+doc5	3	It mainly modulates the humoral immune system; thus, it has a greater theoretical effect in diseases with prominent humoral mechanisms, such as neuromyelitis optica (NMO).
+doc5	4	However, it also has a proven therapeutic effect in multiple sclerosis (MS) attacks.
+doc5	5	Several studies have suggested that patients with severe attacks of CNS-IDD have poor response to steroid therapy but show clinical improvement after the PLEX treatment.
+doc5	6	Currently, PLEX is generally established only as a rescue therapy for steroid unresponsive relapses.
+doc5	7	However, there are still research gaps in the literature regarding plasma volume, number of sessions, and how early the apheresis treatment needs to started.
+doc5	8	Thus, in the present article, we summarize the clinical studies and meta-analyses, especially about MS and NMO, outlining clinical data regarding the experience with therapeutic PLEX in severe attacks of CNS-IDD, the clinical improvement rates, the prognostic factors of a favorable response, and highlighting the likely role of the early apheresis treatment.
+doc5	9	Further, we have gathered this evidence and suggested a protocol for the treatment of CNS-IDD with PLEX in the routine clinical practice.
+doc21	1	Stroke is one of the major causes of disability and mortality worldwide.
+doc21	2	Up to 30% of individuals who experience stroke die within 30 days, and more than 50% of those who survive will have some degree of disability.
+doc21	3	There are some predetermining factors based on admission data that could be used to objectively assess the odds of poor outcomes, including the Ischemic Stroke Predictive Risk Score (IScore).
+doc21	4	To analyze and validate the IScore in patients undergoing intravenous thrombolysis for stroke and compare the results of this predictor with actual death and disability outcomes.
+doc21	5	In a retrospective study, data were collected from a database housed at the Stroke Unit of the Teaching Hospital of Universidade Federal do Paraná, Southern Brazil.
+doc21	6	The IScore was applied to admission data from 239 patients, and the results were compared with actual outcomes (death and disability) within 30 days and 1 year after the stroke event.
+doc21	7	Data analysis was performed using an analysis of the receiver operating characteristic (ROC) curve to determine the sensitivity and specificity of the IScore in the study population.
+doc21	8	The IScore demonstrated moderate sensitivity and high specificity in patients with stroke who underwent thrombolysis when evaluated after 30 days and 1 year of the event.
+doc21	9	The IScore can be applied to in stroke patients undergoing thrombolysis; therefore, it may be used as an objective prognostic tool to guide clinical decision-making.
+doc21	10	Understanding the prognosis of patients in the acute phase can assist clinicians in making the best therapeutic decisions and enable better end-of-life care.
+doc29	1	Even in the early stages of cognitive impairment, older people can present important motor alterations.
+doc29	2	However, there are no studies that have investigated Timed Up and Go (TUG) and its subtasks in predicting impairment of functional capacity over time in this population.
+doc29	3	The aim of this study was to verify if the TUG test and its subtasks can predict functional decline over 32 months in older adults with mild cognitive impairment (MCI) and mild Alzheimer's disease (AD).
+doc29	4	This is a prospective 32-month follow-up study, including at baseline 78 older adults (MCI: n=40; AD: n=38).
+doc29	5	The TUG and its subtasks (e.g., sit-to-stand, walking forward, turn, walking back, and turn-to-sit) were performed at baseline using the Qualisys Motion system.
+doc29	6	Functional capacity was assessed at baseline and after 32 months.
+doc29	7	After follow-up, the sample had 45 older adults (MCI: n=25; AD: n=20).
+doc29	8	Of these, 28 declined functional capacity (MCI: n=13; AD: n=15).
+doc29	9	No TUG variable significantly predicted (p>0.05) functional decline in both groups, by univariate logistic regression analysis with the covariate gender.
+doc29	10	Although older adults with MCI and mild AD declined functional capacity, the TUG test and its subtasks could not predict this decline over 32 months.
+doc9	1	The aim of this study was to analyze the repercussion of the implementation of PECS on the burden index of mothers of children with Autism Spectrum Disorder (ASD).
+doc9	2	This was a longitudinal study (CEP 0403/2017).
+doc9	3	The sample consisted of 20 mother and child with ASD.
+doc9	4	The mothers were on average 41 years and 5 months and the children were 7 years and 2 months old.
+doc9	5	Fifteen children were male and five were female.
+doc9	6	The brazilian version of the Burden Interview scale was applied to verify the level of caregiver burden.
+doc9	7	The Autism Behavior Checklist (ABC) was applied to the analysis of non-adaptive behaviors and to analyze the lexical repertoire: Auditory and Expressive Vocabulary Tests.
+doc9	8	The PECS Implementation Program was composed of 24 sessions of individual speech therapy with the active presence of mothers.
+doc9	9	At the end all children and mothers were reevaluated with part of the instruments.
+doc9	10	There was a tendency to reduce maternal overload indexes after the implementation of the PECS.
+doc9	11	There was a significant decrease in non-adaptive behaviors and an increase in the expressive and auditory vocabulary indexes of the children at the final moment of the study.
+doc9	12	We did not observe a significant correlation between the degrees of overload with age, schooling and intellectual quotient of children, nor schooling and maternal socioeconomic status.
+doc9	13	It was possible to analyze the repercussion of the implementation of the PECS on the burden of mothers of children with ASD assisted by the Program.
+doc42	1	to verify whether there are differences in acoustic measures and oropharyngeal geometry between healthy individuals and people with Parkinson's disease, according to age and sex, and to investigate whether there are correlations between oropharyngeal geometry measures in this population.
+doc42	2	40 individuals participated, 20 with a diagnosis of Parkinson's disease and 20 healthy individuals, matched by age, sex, and body mass index.
+doc42	3	Acoustic variables included fundamental frequency, jitter, shimmer, glottal-to-noise excitation ratio, noise, and mean intensity.
+doc42	4	Oropharyngeal geometry variables were measured with acoustic pharyngometry.
+doc42	5	geometry variables were smaller in the group with Parkinson's disease, and older adults with Parkinson's disease had a smaller oropharyngeal junction area than healthy older adults.
+doc42	6	Regarding acoustic parameters of voice, fundamental frequency values were lower in males with Parkinson's disease, and jitter values ​​were higher in the non-elderly subjects with Parkinson's disease.
+doc42	7	There was a moderate positive correlation between oral cavity length and volume, pharyngeal cavity length and vocal tract length, and pharyngeal cavity volume and vocal tract volume.
+doc42	8	individuals with Parkinson's disease had smaller glottal areas and oropharyngeal junction areas than healthy individuals.
+doc42	9	When distributed into sex and age groups, the fundamental frequency was lower in males with Parkinson's disease.
+doc42	10	There was a moderate positive correlation between oropharyngeal length and volume measures in the study sample.
+doc28	1	Transarterial chemoembolization (TACE) is the first-line treatment for patients with intermediate-stage hepatocellular carcinoma (HCC).
+doc28	2	For patients without an adequate response, current finding suggests that treatment with molecular target agents, approved for advanced stage, might present benefits.
+doc28	3	However, this requires a preserved liver function.
+doc28	4	This study aims to evaluate possible predictors of early deterioration of hepatic reserve, prior to TACE refractoriness, in a cohort of patients treated with TACE.
+doc28	5	Retrospective analysis of 99 patients with Child-Pugh class A and intermediate-stage HCC who underwent TACE as the first-line treatment.
+doc28	6	All patients were submitted to a biochemical and medical evaluation prior to initial TACE and every month afterward.
+doc28	7	Response to initial TACE was evaluated at 1 month.
+doc28	8	The time to Child-Pugh class deterioration before TACE refractoriness was assessed.
+doc28	9	Ninety-nine patients were included.
+doc28	10	Objective response rate (ORR) to initial TACE was assessed as present in 59 (63.4%) and as absent in 34 (36.6%) patients.
+doc28	11	Liver decompensated before TACE refractoriness in 51 (51.5%) patients, and the median time to liver decompensation was 14 (IQR 8-20) months after first TACE.
+doc28	12	In multivariate analysis, beyond up-to-7 criteria (HR 2.4, <i>p</i> = 0.031), albumin <35 mg/dL (HR 3.5, <i>p</i> < 0.001) and absence of ORR (HR 2.4, <i>p</i> = 0.020) were associated with decreased overall survival free of liver decompensation.
+doc28	13	Moreover, beyond up-to-7 criteria, albumin <35 mg/dL and absence of ORR associated negatively with 6-month survival free of liver decompensation.
+doc28	14	Our model created using those variables was able to predict liver decompensation at 6 months with an AUROC of 0.701 (<i>p</i> = 0.02).
+doc28	15	The absence of ORR after initial TACE, beyond up-to-7 criteria and albumin <35 mg/dL, was a predictive factor for early liver decompensation before TACE refractoriness in our population.
+doc28	16	Such patients might benefit from treatment escalation to systemic therapy, in monotherapy or in combination with TACE.
+doc48	1	Knowledge of the embryonic development of species such as quail is important for our understanding of its production and reproduction.
+doc48	2	Quail provides a practical solution to the animal protein shortage problem in developing countries and is an excellent alternative to chicken (Shanaway, 1994).
+doc48	3	This study evaluated quail embryonic viability by comparing the main morphological changes that occur over the development in a homemade incubator with previous data; the incubator was built using easily accessible and low-cost materials, which allows small producers and communities to develop quail farms as an activity to increase income or even produce a source of animal protein for the community in the Brazilian Amazon region.
+doc48	4	The homemade incubator measured 40 cm × 42 cm × 32 cm and was constructed with wooden boards, a digital thermostat, and an incandescent lamp.
+doc48	5	A total of 24 fertile eggs were incubated at a temperature of 37.5 °C and 60% relative humidity; age '0' was set at the start of incubation.
+doc48	6	Two eggs were opened on each day of development, starting from day 5 to day 16 of incubation.
+doc48	7	After gently opening the eggs, the embryos were removed, separated from the placenta and amniotic fluid, washed with running water, and weighed on a digital scale (SHIMADZU AUY 220 brand and UNI BLOC model).
+doc48	8	Crown-rump length and other measurements were performed with a digital caliper and the morphological structures were observed using a stereomicroscope (NOVA brand and NOVA ZTX-E model).
+doc48	9	All eggs opened contained live embryos, indicating that the homemade incubator temperature, relative humidity, and manual turning were adequate to maintain the quail's viability.
+doc48	10	The morphometric data of the embryos at different developmental time points were similar to those described in the literature.
+doc48	11	Embryos weighed 0.0069 g at day 5 and 4.7863 g at day 16, and the crown-rump length (CRL) means were 0.368 cm and 3.657 cm, respectively.
+doc48	12	Weight and CRL increased by 0.434 g and 2.593 cm per day of incubation, respectively.
+doc48	13	In conclusion, after 16 days of incubation in a homemade incubator, the embryos presented all phases of the development cycle, with appropriate development of weight and height based on the days of incubation without anomaly or external interference.
+doc48	14	These findings demonstrate that the homemade incubator does not alter the embryonic development of quail embryos in the Brazilian Amazon region.
+doc45	1	Chronic otitis externa (OE) in dogs frequently requires anaesthetised ear flushing.
+doc45	2	To evaluate hypochlorous acid as an ear flushing and antimicrobial agent in dogs with chronic OE.
+doc45	3	Twenty dogs with chronic OE caused by the same organisms bilaterally.
+doc45	4	One ear was flushed under anaesthesia with hypochlorous acid, the other with saline solution.
+doc45	5	Subsequently, the ear flushed with hypochlorous acid was cleaned with the same solution twice daily for 2 weeks, the other ear with a commercial ear cleaner.
+doc45	6	An ear medication containing miconazole, polymyxin B and prednisolone was used once daily in both ears.
+doc45	7	Clinical scores were determined before the flush.
+doc45	8	Ear cytological results were obtained, a hearing test was conducted before and after the ear flush, and a culture was taken directly after flushing.
+doc45	9	Ears were evaluated after 2 weeks of therapy.
+doc45	10	Yeast was present in the ears of 11, cocci in one and a mixed infection in eight dogs.
+doc45	11	Five ears were negative on culture after flushing with hypochlorous acid, one after the saline flush.
+doc45	12	Clinical and cytological scores decreased significantly with both solutions after 2 weeks of treatment.
+doc45	13	There was no difference between treatments in any of the scores at any time point between treatments and in the results of the hearing test before and after the flushing procedure.
+doc45	14	Adverse effects were not seen.
+doc45	15	Hypochlorous acid is a suitable cleaning solution for canine OE.
+doc39	1	Determination of predictors that can affect development of atherosclerosis progression in the postoperative period is an urgent problem in vascular surgery.
+doc39	2	Integrated assessment of markers of apoptosis and cell proliferation in atherosclerotic lesions and their progression after surgery in patients with peripheral arterial diseases.
+doc39	3	The investigation included 30 patients with stage IIB-III peripheral arterial disease.
+doc39	4	All patients have undergone open surgical interventions on the arteries of the aorto-iliac and femoral-popliteal segments.
+doc39	5	During these interventions, intraoperative specimens were obtained from the vascular wall with atherosclerotic lesions.
+doc39	6	The following values were evaluated: VEGF А165, PDGF BB, and sFas.
+doc39	7	Samples of normal vascular wall were obtained from post-mortem donors and used as a control group.
+doc39	8	The levels of Bax and p53 were increased (p<0.001) in samples from arterial wall with atherosclerotic plaque, while sFas values were reduced (p<0.001), compared to their levels in control samples.
+doc39	9	Values of PDGF BB and VEGF A165 were 1.9 and 1.7 times higher in atherosclerotic lesion samples (p=0.001), in comparison with the control group.
+doc39	10	The levels of p53 and Bax were increased against a background of reduced sFas levels in samples with progression of atherosclerosis compared to their baseline values in samples with atherosclerotic plaque (p<0.05).
+doc39	11	Initially increased values of the Bax marker against a background of reduced sFas values in vascular wall samples from patients with peripheral arterial disease is associated with risk of atherosclerosis progression in the postoperative period.
+doc50	1	To assess the association between two colposcopic indices, the Swede score and the 2011 International Federation of Cervical Pathology and Colposcopy (IFCPC) Nomenclature as well as to determine the efficacy of the Swede score with cutoffs of 7 and 8.
+doc50	2	In the present cross-sectional pilot study, 34 women who had at least 1 colposcopy-directed biopsy due to abnormal cytology were enrolled.
+doc50	3	The colposcopic findings were scored by both the Swede score and the 2011 IFCPC Nomenclature and were compared with each other.
+doc50	4	The Kappa coefficient and the McNemar test were used.
+doc50	5	Accuracy, sensitivity, specificity, and positive and negative predictive values (NPV and PPV, respectively) were calculated, as well as the effectiveness with cutoffs of 7 and 8 in identifying cervical intraepithelial neoplasm (CIN) 2+ when using the Swede score.
+doc50	6	The correlation between the 2 colposcopic indices was 79.41%.
+doc50	7	The Kappa coefficient and the McNemar p-value were 0.55 and 0.37, respectively.
+doc50	8	The IFCPC Nomenclature had sensitivity, specificity, accuracy, PPV, and NPV of 85.71, 55.00, 67.64, 57.14, and 84.61%, respectively.
+doc50	9	The Swede score had sensitivity, specificity, accuracy, PPV, and NPV of 100, 63.15, 79.41, 68.18, and 100%, respectively.
+doc50	10	A Swede score cutoff of 7 for CIN 2+ detection had a specificity of 94.73%, while with a cutoff of 8 it increased to 100%.
+doc50	11	The sensitivity for both values was 60%.
+doc50	12	The PPV and NPV for cutoffs of 7 and 8 were 90 and 75 and 100 and 76%, respectively.
+doc50	13	Although both colposcopic indices have good reproducibility, the Swede score showed greater accuracy, sensitivity, and specificity in identifying CIN 2 + , especially when using a cutoff of 8.
+doc26	1	Data on the outcomes of preterm newborns in South American countries are scarce.
+doc26	2	Given the great effect of low birth weight (LBW) and/or prematurity on children's neurodevelopment, it is extremely necessary to conduct studies on these phenomena in greater depth in more heterogeneous populations such as those ones from countries with limited resources.
+doc26	3	We conducted a comprehensive literature search on databases including PubMed, the Cochrane Library, and Web of Science for articles published in Portuguese and English up to March 2021 involving children born and evaluated in Brazil.
+doc26	4	The analysis of the risk of bias was adapted from the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement and used to evaluate the methodology of the included studies.
+doc26	5	From the eligible trials, 25 articles were selected for qualitative synthesis, and 5 of those, for quantitative synthesis (meta-analysis).
+doc26	6	The meta-analyses showed that children born with LBW presented lower scores on motor development when compared with controls (standardized mean difference: -1.15; 95% confidence interval [95%CI]: -1.56--0.73]; I<sup>2</sup>: 80%) and also scored lower in terms of cognitive development (standardized mean difference: -0.71; 95% CI: -0.99--0.44; I<sup>2</sup>: 67%).
+doc26	7	The results of the present study reinforce that impaired motor and cognitive functions can be a significant long-term outcome of LBW.
+doc26	8	The lower the gestational age at delivery, the higher the risk of impairment in those domains.
+doc26	9	The study protocol was registered in the International Prospective Register of Systematic Reviews (PROSPERO) database under number CRD42019112403.
+doc16	1	To document Grenadian women's knowledge about cervical cancer and human papillomavirus (HPV) infection, as well as their attitudes towards primary cervical cancer screening methods.
+doc16	2	In this qualitative study, we used focus groups in Grenada to gather information concerning women's knowledge about, attitudes towards and perceptions of screening for cervical cancer and general knowledge about HPV.
+doc16	3	Ten focus groups comprising 73 participants representing 5 of the 6 parishes in Grenada were conducted with women aged 19-59.
+doc16	4	Participants were asked about pelvic exams, Pap smears, HPV, reasons for seeking or avoiding cervical cancer screening and how different modalities of testing might affect their decision-making.
+doc16	5	Responses were then coded and organized into common themes.
+doc16	6	While many respondents had heard of HPV, far fewer knew about its causative role in cervical cancer, how to prevent HPV infection or testing for the high-risk HPV types that cause almost all cases of cervical cancer.
+doc16	7	Many participants were aware that cervical cancer screening was beneficial, but numerous barriers to obtaining that screening were noted, including concerns about privacy and stigma, potential discomfort, and the cost and inconvenience involved.
+doc16	8	Our findings have implications for future cervical cancer screening efforts in Grenada.
+doc16	9	Central to these efforts should be a focus on educating Grenadians about the role of HPV infection in cervical cancer and the importance of early detection through screening.
+doc16	10	In addition, addressing issues of stigma and privacy are key to eliminating cervical cancer in Grenada.
+doc49	1	In patients with heart failure (HF), due to the relative deficiency of blood volume, neurohormone system activation leads to renal vasoconstriction, which affects the content of blood urea nitrogen (BUN) and creatinine (Cr) in the body, while BUN and Cr are easily affected by other factors.
+doc49	2	Therefore, BUN/Cr can be used as another marker for the prognosis of HF.
+doc49	3	Explore the prognosis of adverse outcome of HF in the high BUN/Cr group compared with the low BUN/Cr group across the full spectrum of ejection fraction.
+doc49	4	From 2014 to 2016, symptomatic hospitalized HF patients were recruited and followed up to observe adverse cardiovascular outcomes.
+doc49	5	Logistic analysis and COX analysis were performed to determine significance.
+doc49	6	p-values <0.05 were considered statistically significant.
+doc49	7	In the univariate logistic regression analysis, the high BUN/Cr group had a higher risk of adverse outcome in heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF).
+doc49	8	Multivariate logistic regression analysis showed that the risk of cardiac death in the HFrEF group was higher than that in the low BUN/Cr group, while the risk of all-cause death was significant only in 3 months (p<0.05) (Central Illustration).
+doc49	9	The risk of all-cause death in the high BUN/Cr in the HFpEF group was significantly higher than that in the low BUN/Cr group at two years.
+doc49	10	The high BUN/Cr group is related to the risk of poor prognosis of HFpEF, and is not lower than the predictive value of left ventricular ejection fraction (LVEF).
+doc10	1	The coexistence of amyotrophic lateral sclerosis (ALS) with clinical forms of Parkinson disease (PD), although uncommon, is found to a greater degree than one would expect by chance.
+doc10	2	The pathological mechanisms of ALS and PD are still not fully understood, and the coexistence of these two diseases suggests that they could share mechanisms in common.
+doc10	3	Here we present a sample of patients with clinically definitive or probable ALS who were evaluated with single-photon emission computed tomography SPECT/TRODAT and compared with non-ALS controls.
+doc10	4	Patients with clinically definite or probable ALS were assessed with the amyotrophic lateral sclerosis functional rating scale (ALSFRS) to define severity and had their demographic data collected.
+doc10	5	The TRODAT results of patients with ALS were compared with those of patients with a diagnosis of PD with less than 10 years of duration, and with patients with a diagnosis of others movement disorders not associated with neurodegenerative diseases.
+doc10	6	A total of 75% of patients with ALS had TRODAT results below the levels considered normal; that was also true for 25% of the patients in the control group without neurodegenerative disease, and for 100% of the patients in the PD group.
+doc10	7	A statistically significant difference was found between patients with ALS and the control group without neurodegenerative disease in the TRODAT values < 0.05.
+doc10	8	Our study fits with the neuropathological and functional evidence that demonstrates the existence of nigrostriatal dysfunction in patients with ALS.
+doc10	9	Further research to better understand the role of these changes in the pathophysiological process of ALS needs to be performed.
