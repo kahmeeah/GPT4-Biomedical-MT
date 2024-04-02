@@ -14,7 +14,7 @@ except Exception as e:
 
     
 def load_data(filename):
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding='utf-8') as f:
         data = f.readlines()
         data = [line.strip() for line in data]
     return data
@@ -38,7 +38,7 @@ def generate_submission(filename):
             for sent_id in range(1, 4):
                 f.write(f"doc{doc_id}\t{sent_id}\ttranslated_sentence_{sent_id}\n")
 def main():
-    data = load_data('../reference_files/medline_en2pt_en.txt')
+    data = load_data('reference_files/medline_en2pt_en.txt')
     sentences = process_sentences(data)
 
 
