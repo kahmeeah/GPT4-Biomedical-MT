@@ -1,0 +1,420 @@
+doc5	1	Analisar a completude das notificações de casos de síndrome respiratória aguda grave no Sistema de Informação de Vigilância Epidemiológica da Gripe (SIVEP-Gripe) durante a pandemia de COVID-19, na base de dados nacional e na base da Unidade Regional de Saúde do estado de Minas Gerais, Brasil, em 2020.
+doc5	2	Estudo descritivo da completude das variáveis sociodemográficas e das relativas à etiologia, condição clínica, evolução e critérios diagnósticos do SIVEP-Gripe.
+doc5	3	O nível de completude foi classificado como excelente (> 95%), bom (90% a 95%), regular (80% a 90%), ruim (50% a 80%) ou muito ruim (< 50%).
+doc5	4	O percentual de variáveis com completude excelente foi de apenas 18,1% na base de dados nacional, e de 27,8% na base de dados regional.
+doc5	5	Evidenciou-se baixa completude de ambas as bases de dados do SIVEP-Gripe, tornando-se necessários aperfeiçoamentos no processo de trabalho e capacitações rotineiras dos profissionais para o correto preenchimento.
+doc6	1	analisar a relação entre a preocupação e o medo da COVID-19 com o fatalismo no cotidiano de trabalho dos enfermeiros.
+doc6	2	estudo transversal analítico, realizado com 449 enfermeiros.
+doc6	3	A coleta de dados foi realizada por meio de instrumentos validados no Peru.
+doc6	4	Na análise, foram utilizados o teste de Shapiro-Wilk e o coeficiente de correlação de Spearman, sendo estimados dois modelos de regressão múltipla, com seleção de variáveis por etapas.
+doc6	5	os enfermeiros apresentaram nível moderado de fatalismo e baixo nível de medo e preocupação com a COVID-19.
+doc6	6	O primeiro modelo estatístico, que incluiu variáveis sociodemográficas, explica apenas 3% da variância de fatalismo.
+doc6	7	No entanto, um segundo modelo que inclui medo e percepção explica 33%.
+doc6	8	a preocupação, o medo e ter sido diagnosticado com COVID-19 foram fatores preditores de fatalismo.
+doc6	9	Sugere-se a implementação de intervenções psicoemocionais no cotidiano de trabalho, voltadas para profissionais de Enfermagem que apresentem altos níveis de medo ou preocupação, para reduzir o fatalismo e, assim, prevenir consequências fatais da pandemia e promover a saúde.
+doc9	1	O estudo objetivou investigar a prevalência de insegurança alimentar no contexto da COVID-19 e sua associação com o programa de transferência de renda Auxílio Emergencial e o recebimento de doação de alimentos na população em vulnerabilidade social.
+doc9	2	Estudo transversal, realizado com famílias em vulnerabilidade social, oito meses após a confirmação do primeiro caso de COVID-19 no Brasil.
+doc9	3	Foram incluídas 903 famílias, residentes em 22 aglomerados subnormais de Maceió, em Alagoas. Avaliaram-se características sociodemográficas e foi aplicada a Escala Brasileira de Insegurança Alimentar.
+doc9	4	A associação da insegurança alimentar com as variáveis estudadas foi realizada por meio de regressão de Poisson com estimativa robusta das variâncias, considerando α = 5%.
+doc9	5	Do total da amostra, 71,1% estavma em insegurança alimentar, situação que se associou com o recebimento de doação de alimentos (RP = 1,14, IC95%: 1,02; 1,27) e ser beneficiário do Auxílio Emergencial (RP = 1,23, IC95%: 1,01; 1,49).
+doc9	6	Os resultados mostram que a população em vulnerabilidade social foi fortemente afetada pela insegurança alimentar.
+doc9	7	Em contrapartida, essa população foi beneficiada por ações que foram implementadas no início da pandemia.
+doc8	1	A imagem corporal é um constructo da representação multifacetada da identidade corporal, envolve autopercepção, crenças e atitudes sobre o próprio corpo, podendo ser influenciada por diversos fatores.
+doc8	2	Este estudo avaliou a associação da imagem corporal com indicadores antropométricos e do estilo de vida em adolescentes.
+doc8	3	Constituíram a amostra 465 adolescentes de 10 a 17 anos de escolas públicas da cidade de Salvador, na Bahia.
+doc8	4	A imagem corporal foi avaliada pela Escala de Silhuetas.
+doc8	5	Os dados antropométricos (índice de massa corporal e a circunferência da cintura), de estilo de vida (Physical Activity Questionnaire for Adolescents e o tempo de televisão), econômicos e demográficos foram avaliados.
+doc8	6	Regressão logística politômica avaliou as associações de interesse.
+doc8	7	Os dados foram analisados pelo software STATA, versão 16.0.
+doc8	8	O sobrepeso/obesidade (OR: 9,7; IC95%: 5,4-17,5) e a obesidade abdominal (OR: 14,0; IC95%: 5,0-39,3) se mostraram positivamente associados à insatisfação corporal, mas não foi observada associação com as variáveis de estilo de vida (atividade física: OR: 1,7; IC95%: 0,9-2,9; e tempo de TV: OR: 1,2; IC95%: 0,8-1,9).
+doc8	9	Conclui-se que o estado antropométrico é um importante indicador dos desfechos negativos da imagem corporal em adolescentes.
+doc10	1	Este artigo busca refletir, cultural e eticamente, sobre os desafios atuais e futuros da incorporação de novas biotecnologias de diagnóstico e tratamento de câncer no Brasil, bem como seu impacto no acesso e no controle do câncer no país.
+doc10	2	Para tanto, esta pesquisa parte da problematização da literatura sobre o tema e dos resultados de um estudo, que realizou uma websurvey com especialistas médicos dos setores público e privado brasileiros, associados às dez sociedades oncológicas mais representativas do país, atuantes nas áreas da clínica, cirurgia, radioterapia, patologia e diagnóstico.
+doc10	3	A discussão do estudo desenvolve-se em torno de três eixos temáticos: conhecimento e expectativas sobre o advento das novas tecnologias para o diagnóstico e tratamento do câncer; considerações estruturais e éticas envolvidas no uso atual e futuro das novas tecnologias; e possíveis cenários associados ao uso e aplicação das novas tecnologias para o diagnóstico e tratamento do câncer.
+doc10	4	Foram suscitadas algumas questões: novos paradigmas tecnológicos beneficiarão todos os usuários do Sistema Único de Saúde (SUS) ou serão privilégios de poucos? Diminuirão as discrepâncias em termos de oferta de distribuição de serviços, de recursos tecnológicos e de acesso ao diagnóstico e tratamento do câncer? Como diversos segmentos da sociedade poderão participar e influir nesse processo?
+doc10	5	Que tipos de cenários poderão ainda compor esse quadro? Visando contribuir com o planejamento da atenção ao câncer no Brasil, o artigo finaliza propondo o desenvolvimento de futuras ações a partir de cinco dimensões estratégicas: dimensão econômica; dimensão científica, de inovação e tecnológica; dimensão estrutural; dimensão cultural; e dimensão reguladora.
+doc11	1	Comparar a eficiência de diferentes instrumentos de autoavaliação vocal para o rastreio da disfonia.
+doc11	2	Participaram 262 indivíduos disfônicos e não disfônicos, com média de idade de 41,3 (±14,5) anos.
+doc11	3	O diagnóstico da disfonia foi dado a partir da análise perceptivo-auditiva da vogal sustentada “é” e do diagnóstico laringológico.
+doc11	4	Foram coletadas as respostas dos instrumentos: Questionário de Qualidade de Vida em Voz (QVV), Índice de Desvantagem Vocal (IDV), IDV-10, Escala de Sintomas Vocais (ESV) e do Br-DST (Brazilian Dysphonia Screening Tool), denominado no português brasileiro como Instrumento de Rastreio da Disfonia (IRDBR).
+doc11	5	Para análise da assertividade destes em relação à presença da disfonia, foram utilizados os pontos de corte de cada instrumento e a regra de decisão preconizada pelo IRDBR.
+doc11	6	Foi realizada uma análise exploratória para comparação das médias dos escores dos instrumentos e verificação de associações entre as variáveis.
+doc11	7	Os instrumentos avaliados foram sensíveis para captar o impacto da disfonia de forma semelhante independentemente do uso profissional da voz e tipo de disfonia.
+doc11	8	Foi observada diferença apenas nos escores da ESV para a variável sexo, com maior pontuação observada no sexo feminino.
+doc11	9	Em relação à assertividade global, os instrumentos apresentaram elevados índices de acerto na classificação, com destaque para a ESV que apresentou maior índice (86,3%), seguida do IRDBR (84,0%), QVV (80,9%), IDV (78,2%) e IDV-10 (75,2%).
+doc11	10	A ESV apresenta maior índice de assertividade na identificação da disfonia, seguida do IRDBR.
+doc11	11	O IRDBR é uma ferramenta curta, simples e de fácil aplicação para procedimentos de rastreio.
+doc4	1	Introdução: Em Pediatria, o diagnóstico de tuberculose constitui um desafio, pois a doença pode frequentemente manifestar-se através de formas graves e extrapulmonares.
+doc4	2	O objetivo deste estudo foi avaliar e refletir sobre a tuberculose grave com necessidade de internamento, em idade pediátrica, numa área metropolitana de Lisboa.
+doc4	3	Material e Métodos: Estudo descritivo de doentes com idade inferior a 18 anos, internados com o diagnóstico de tuberculose num hospital pediátrico terciário, de 2008 a 2019 (12 anos).Resultados: Identificados 145 doentes, numa média de 12 casos por ano, e um aumento do número de casos nos últimos três anos.
+doc4	4	A mediana de idades dos doentes era de 12,9 anos, 42,8% nascidos em países africanos de língua oficial portuguesa e 20% tinham doença crónica.
+doc4	5	Diagnosticou-se tuberculose pulmonar em 52,4% (n = 76) e tuberculose extrapulmonar em 47,6%: ganglionar (n = 26), óssea (n = 15), miliar (n = 8), meníngea (n = 7), peritoneal/intestinal (n = 6), pleural (n = 4), renal (n = 1), cutânea (n = 1), da parede torácica (n = 1) e glândulas salivares (n = 1).
+doc4	6	A prova tuberculínica foi positiva em 78/99 (78,8%) e o Interferon Gamma Release Assay em 61/90 (67,8%).
+doc4	7	Em 20,7% (n = 30) identificaram-se bacilos ácido-álcool resistentes no exame direto do suco gástrico/expetoração e o agente foi identificado em 59,3% (n = 86).
+doc4	8	A tuberculose resistente ocorreu em 11% (n = 16).
+doc4	9	Os doentes com tuberculose extrapulmonar eram mais jovens (p = 0,006) e fizeram tratamentos mais prolongados (p < 0,001).
+doc4	10	Ocorreram complicações da terapêutica em 11% (n = 16).
+doc4	11	Registou-se um óbito numa doente com neoplasia avançada.
+doc4	12	Conclusão: Este estudo alerta para a necessidade do rastreio da infeção em crianças de países endémicos, imunossuprimidos e com doença crónica.
+doc13	1	O método de análise espacial permite mensurar a acessibilidade espacial dos serviços de saúde para alocação dos recursos de forma eficiente e eficaz.
+doc13	2	Diante disso, o objetivo deste estudo foi analisar a distribuição espacial das taxas de COVID-19 e dos recursos de saúde na Amazônia Legal.
+doc13	3	Estudo ecológico realizado com casos de COVID-19 e os recursos de saúde nos 772 municípios em dois picos da pandemia.
+doc13	4	Utilizou-se o método bayesiano global e local para elaboração de mapas coropléticos, com cálculo do índice de Moran para análise da dependência espacial e utilização do Moran map para identificação dos clusters da doença.
+doc13	5	Os índices de Moran calculados para os dois períodos demonstraram autocorrelação espacial positiva dessa distribuição e dependência espacial entre os municípios nos dois períodos, sem muita diferença entre os dois estimadores.
+doc13	6	Evidenciaram-se maiores taxas da doença nos estados do Amapá, Amazonas e Roraima.
+doc13	7	Em relação aos recursos de saúde, observou-se alocação de forma ineficiente, com maior concentração nas capitais.
+doc7	1	Descrever a proporção de adultos com hipertensão e diabetes que obtiveram medicamentos no Programa Farmácia Popular do Brasil.
+doc7	2	Estudo descritivo de base populacional, com dados da Pesquisa Nacional de Saúde 2019.
+doc7	3	Analisou-se a proporção de indivíduos que obtiveram ao menos um medicamento para hipertensão e diabetes no Programa, segundo características socioeconômicas e demográficas, por regiões e Unidades da Federação.
+doc7	4	A proporção de indivíduos que obtiveram medicamentos para hipertensão foi de 45,1% (IC95% 43,7;46,5), e para diabetes, 51,5% (IC95% 49,5;53,6).
+doc7	5	Para ambas as condições, hipertensão e diabetes, respectivamente, a aquisição foi maior na região Sul (54,3%; IC95% 51,3;57,2 e 59,1%; IC95% 54,6;63,7) e menor nos estratos de maior nível de instrução (30,9%; IC95% 27,7;34,2 e 40,7%; IC95% 35,1;46,3) e renda (24,0%; IC95% 19,7;28,2 e 28,9%; IC95% 22,1;35,7).
+doc7	6	Desigualdades regionais e socioeconômicas foram identificadas na obtenção de medicamentos para hipertensão e diabetes pelo programa.
+doc15	1	Analisar o perfil e tendência temporal dos homicídios femininos no Maranhão, Brasil, em 2000-2019.
+doc15	2	Estudo ecológico, com dados do Sistema de Informações sobre Mortalidade.
+doc15	3	Foram avaliados o perfil dos óbitos, tendência das taxas de mortalidade (método joinpoint) e correlação com indicadores socioeconômicos e de saúde (correlação de Pearson).
+doc15	4	Foram notificados 1.915 homicídios femininos, predominando a idade de 20-29 anos (29,9%), solteiras (62,0%), 4-7 anos de estudo (29,7%), raça/cor da pele parda (71,3%), no domicílio (31,9%), por arma de fogo (41,1%).
+doc15	5	A tendência das taxas de mortalidade foi crescente (VPA = +8,21; IC95% 5,18;10,28).
+doc15	6	Observou-se correlação negativa dos homicídios com renda per capita (p-valor = 0,031), e positiva com proporção de famílias chefiadas por mulheres (p-valor = 0,001) e taxa de mortalidade masculina por agressão (p-valor = 0,001).
+doc15	7	Houve crescimento dos homicídios femininos, relacionados com violência estrutural na sociedade, pobreza e mulheres com maior autoridade familiar.
+doc16	1	Estimar a prevalência e os fatores associados à presença de multimorbidade na população idosa do município de Ibicuí - BA.
+doc16	2	Estudo realizado com 310 idosos com idade > 60 anos, de ambos os sexos, residentes no município de Ibicuí - BA.
+doc16	3	Foram coletadas informações sociodemográ-ficas e informações pessoais, condições de vida, hábitos de vida, massa corporal, estatura e presença de multimorbidade.
+doc16	4	Utilizou-se análise descritiva e foram estimadas razões de prevalência de multimorbidade, segundo variáveis de interesse.
+doc16	5	Como medida de significância estatística foi utilizado o teste de Qui-quadrado de Pearson, adotando-se p≤0,05.
+doc16	6	A análise multivariada hierarquizada por Regressão de Poisson foi empregada após análise bivariada para seleção das variáveis independentes (p<0,20).
+doc16	7	A prevalência geral de multimorbidade foi de 80,3%.
+doc16	8	Na análise multivariada hierarquizada, apresentaram associação significativa, as variáveis sexo e renda mensal (p<0,05).
+doc16	9	Os resultados mostraram uma elevada prevalência de multimorbidade na população investigada e essa condição foi mais acentuada entre as mulheres e aqueles com menor nível económico.
+doc16	10	Faz-se necessário redirecionar o planejamento das ações de saúde no município, com mudanças na política de atenção à saúde do idoso e, principalmente, nas redes de suporte social que amparam esses indivíduos, uma vez que, nesta localidade, a presença de multimorbidade esteve relacionada a questões socioeconómicas.
+doc17	1	A síndrome do PRKAG2 é uma rara doença genética autossômico dominante, fenocópia da miocardiopatia hipertrófica, caracterizada pelo acúmulo intracelular de glicogênio.
+doc17	2	Manifestações clínicas incluem pré-excitação ventricular, hipertrofia ventricular, distúrbio de condução cardíaca e arritmias atriais.
+doc17	3	Comparar características clínicas e eletrofisiológicas observadas em pacientes com flutter atrial, com e sem síndrome do PRKAG2.
+doc17	4	Estudo observacional, comparativo de pacientes com flutter atrial: grupo A, cinco pacientes de família com síndrome do PRKAG2; e grupo B, 25 pacientes sem fenótipo da síndrome.
+doc17	5	O nível de significância foi de 5%.
+doc17	6	Todos os pacientes do grupo A apresentaram pré-excitação ventricular e bloqueio de ramo direito; quatro tinham marca-passo (80%).
+doc17	7	Pacientes do grupo A tinham menor idade (39±5,4 vs. 58,6±17,6 anos, p=0,021), e maior espessura de septo interventricular (mediana=18 vs. 10 mm; p<0,001) e parede posterior (mediana=14 vs. 10 mm; p=0,001).
+doc17	8	Quatro do grupo A foram submetidos a estudo eletrofisiológico, sendo observada via acessória fascículo-ventricular; em três foi realizada ablação do flutter atrial.
+doc17	9	Todos os do grupo B foram submetidos à ablação do flutter atrial, sem evidência de via acessória.
+doc17	10	Observado maior prevalência no grupo B de hipertensão arterial, diabetes mellitus, doença coronariana e apneia do sono, sem diferença estatisticamente significante.
+doc17	11	Portadores da síndrome do PRKAG2 apresentaram flutter atrial em idade mais precoce, e menos comorbidades, quando comparados a pacientes com flutter atrial sem fenótipo da mutação.
+doc17	12	Importante suspeitar de miocardiopatia geneticamente determinada, como síndrome do PRKAG2, em jovens com flutter atrial, especialmente na presença de pré-excitação ventricular e hipertrofia ventricular familiar.
+doc2	1	Comparar indicadores de cuidado assistencial em adultos com diagnóstico médico de diabetes mellitus (DM) no Brasil em 2013 e 2019, e analisar esses indicadores, em 2019, segundo características sociodemográficas.
+doc2	2	Estudo transversal com dados da Pesquisa Nacional de Saúde de 2013 e 2019.
+doc2	3	Foram avaliados os indicadores de cuidado em pessoas com diagnóstico médico de DM.
+doc2	4	A prevalência de DM aumentou de 6,2% (2013) para 7,7% (2019).
+doc2	5	Entre 2013 e 2019, ocorreu aumento no uso de medicamentos (de 80,2% para 88,8%) e de assistência médica (de 73,2% para 79,1%), houve redução no uso de medicamentos da Farmácia Popular (de 57,4% para 51,5%) e no acompanhamento com mesmo médico (de 65,2% para 59,4%).
+doc2	6	Em 2019, pessoas do sexo masculino, mais jovens, de raça/cor da pele preta e parda, menores escolaridade e renda apresentaram pior desempenho nos indicadores.
+doc2	7	A maioria dos indicadores permaneceu semelhante durante os últimos cinco anos, com diferenças segundo características sociodemográficas em 2019.
+doc19	1	Caracterizar o processamento fonológico em adolescentes e identificar habilidades linguísticas e funções cognitivas que o influenciam nessa faixa etária.
+doc19	2	Participaram 83 adolescentes típicos de 11 a 16 anos.
+doc19	3	Utilizaram-se os testes de consciência fonológica, nomeação automática rápida, avaliação neuropsicológica e leitura.
+doc19	4	Foi realizada a análise descritiva e a regressão linear com nível de significância de 5%.
+doc19	5	Em relação ao processamento fonológico, observou-se menor desempenho na tarefa de segmentação fonêmica, maior tempo de nomeação de objetos e desempenho dentro do esperado para a idade em memória operacional.
+doc19	6	Verificou-se associação recíproca entre nomeação rápida de objetos, de letras e memória operacional, entre nomeação rápida de letras e consciência fonológica.
+doc19	7	As funções executivas e a atenção influenciaram a memória operacional e a consciência fonológica.
+doc19	8	A memória verbal episódica semântica influenciou a memória operacional e, a leitura, a consciência fonológica.
+doc19	9	O desempenho no processamento fonológico foi influenciado por habilidades linguísticas e cognitivas e sugere ainda estar em aprimoramento na adolescência.
+doc22	1	Apresentar Instrutivo e Protocolo de História Clínica Miofuncional Orofacial pertencentes ao Protocolo MMBGR - Lactentes e Pré-escolares, incluindo adaptação e validação do conteúdo e aparência destes.
+doc22	2	Estudo tipo validação, descritivo e transversal.
+doc22	3	Adaptação a partir do Protocolo MBGR, fundamentada em estudos teóricos e experiência dos autores.
+doc22	4	Considerados lactentes entre 6 e 23 meses de vida e pré-escolares entre 24 e 71 meses.
+doc22	5	Obtido consentimento e consenso da versão adaptada pelos autores (originais e atuais).
+doc22	6	Analisados aparência e conteúdo do novo instrumento por 10 fonoaudiólogos especialistas em Motricidade Orofacial.
+doc22	7	Realizadas duas rodadas de análise: Primeira com formulário eletrônico contendo questões dicóticas (sim/não), com espaço para justificar as respostas negativas; calculado Índice de Validade de Conteúdo e Teste Binomial Exato; e Segunda com escala Likert 5 posições.
+doc22	8	Produzido instrutivo inédito e adaptado o Protocolo de História Clínica, com manutenção de 23 itens pertinentes à faixa etária em questão.
+doc22	9	Excluídas informações em 7 itens e acrescidas em 8 itens.
+doc22	10	Inicialmente obteve-se concordâncias de 70% do instrutivo, por pelo menos 70% dos especialistas; e 64% dos itens da História Clínica, por ao menos 90% dos especialistas.
+doc22	11	Obteve-se na segunda rodada 100% de respostas “Concordo totalmente” dos especialistas. “Instrutivo” e “História Clínica Miofuncional Orofacial” tiveram validade de conteúdo e aparência concluída, e junto ao “Exame Clínico” integram o “Protocolo MMBGR - Lactentes e Pré-escolares”, com potencial contribuição para atuação clínica e na pesquisa em Motricidade Orofacial na faixa etária de 6 meses a 5 anos e 11 meses de idade.
+doc24	1	O objetivo foi analisar os fatores associados ao uso dos serviços odontológicos no Brasil.
+doc24	2	A estratégia de revisão incluiu as bases PubMed, SciELO, LILACS, BBO, EMBASE, Scopus, WOS e Google Scholar, além de repositórios e bancos de dissertações e teses.
+doc24	3	Os estudos foram selecionados ​​usando a estratégia PEO (população/exposição/desfechos).
+doc24	4	O desfecho deste estudo foi o uso dos serviços odontológicos no último ano pela população brasileira, tratado como variáveis dicotômicas para as análises: ≤ 1 ano e > 1 ano.
+doc24	5	Foi realizada uma metanálise de efeito randômico de Mantel-Haenszel, estimando-se razões de prevalência (RP) e intervalos de confiança de 95% (IC95%).
+doc24	6	Foram selecionados 94 estudos.
+doc24	7	A maioria (98%) tinha delineamento transversal, sendo 63% oriundos de dados primários.
+doc24	8	Para a metanálise, 25 estudos foram incluídos.
+doc24	9	O uso dos serviços odontológicos no último ano esteve associado com maior escolaridade (≥ 8 anos de estudo) (RP = 0,49, (IC95%: 0,39-0,60)); maior renda familiar (≥ 2 salários-mínimos) (RP = 0,79, (IC95%: 0,74-0,84)); e residir na zona urbana (RP = 0,79, (IC95%: 0,64-0,97)).
+doc24	10	A oferta de serviços odontológicos no Sistema Único de Saúde precisa ser ampliada entre pessoas com menor renda, menor escolaridade e moradores da zona rural.
+doc25	1	Diante de dados demográficos referentes às áreas de atuação dos cardiologistas no Brasil, a coordenação do Programa de Residência Médica em Cardiologia do Instituto do Coração (PRM INCOR) entendeu a necessidade de uma atualização de seu conteúdo programático, a fim de adaptar o processo de formação à realidade profissional do cardiologista.
+doc25	2	O presente artigo tem como objetivo descrever à comunidade científica as atualizações recentemente implementadas no PRM INCOR.
+doc25	3	No artigo, descrevemos as atualizações recentes do PRM INCOR, comparando a grade teórica pregressa e a atual.
+doc25	4	Expomos também o racional por trás de tais mudanças com dados de literatura relacionados à atuação do médico cardiologista no mercado de trabalho.
+doc25	5	Houve uma redução da carga horária destinada a estágios de terapia intensiva, e um incremento nas atividades ambulatoriais relacionadas a medidas de prevenção primária e secundária.
+doc25	6	Além disso, o programa passou por uma reformulação de seu conteúdo didático, organizado agora por núcleos de competência.
+doc25	7	A atualização da grade curricular decorre da necessidade de adequar o PRM INCOR à realidade atual do mercado de trabalho brasileiro.
+doc25	8	O grupo envolvido na atualização está ciente que se trata de um processo dinâmico e que pode exigir modificações no decorrer do tempo.
+doc26	1	Trinta anos atrás, uma nova síndrome clínico-eletrocardiográfica distinta foi descrita, agora conhecida como síndrome de Brugada (SBr).
+doc26	2	Típico para essa síndrome é o eletrocardiograma com supradesnivelamento do segmento ST nas derivações precordiais direitas.
+doc26	3	A apresentação clínica da doença é altamente variável: os pacientes podem permanecer completamente assintomáticos, mas também podem desenvolver episódios de síncope, fibrilação atrial (FA), síndrome do nódulo sinusal (SNS), distúrbios de condução, assistolia e fibrilação ventricular (FV).
+doc26	4	A doença é causada por mutações nos genes responsáveis pelo potencial de ação das células do coração.
+doc26	5	O gene mais frequentemente envolvido é o SCN5A, que controla a estrutura e função do canal de sódio cardíaco.
+doc26	6	A descrição dessa nova síndrome teve implicações muito positivas em todos os campos da medicina.
+doc27	1	A pandemia da COVID-19 exigiu a reestruturação dos modelos educacionais nas universidades, incluindo a rápida transição para o ensino remoto.
+doc27	2	Realizamos uma pesquisa qualitativa com o objetivo de compreender a percepção de professores universitários sobre os efeitos
+doc27	3	da pandemia da COVID-19 para a rotina de trabalho e para a saúde dos docentes de uma universidade pública no estado de São Paulo.
+doc27	4	Foram realizadas entrevistas semiestruturadas com 17 docentes de cursos de graduação das ciências humanas, biológicas e exatas, entre agosto e setembro de 2020.
+doc27	5	As entrevistas foram gravadas e transcritas na íntegra.
+doc27	6	Da análise de conteúdo, quatro categorias temáticas emergiram: (1) mudanças na rotina de trabalho e seus impactos, incluindo a adaptação ao trabalho remoto e dificuldade em estabelecer limites entre trabalho e rotina pessoal; (2) alterações na dinâmica entre professor/alunos e possibilidade de repensar a prática docente; (3) relação dos docentes com a universidade, o processo de tomada de decisões, suporte para a transição ao ensino remoto e preocupações com a qualidade do ensino; e (4) angústias e medos relacionamos à pandemia que se somaram aos estressores do trabalho.
+doc27	7	Os resultados ressaltam a necessidade de ações direcionadas à gestão educacional, às dinâmicas comunicacionais e à saúde mental.
+doc29	1	Este estudo transversal teve como objetivo analisar as características sociodemográficas e de estilo de vida associadas ao consumo de alimentos in natura ou minimamente processados e ultraprocessados (AUP) por adolescentes da Região Metropolitana da Grande Vitória - Espírito Santo, Brasil.
+doc29	2	Os dados foram obtidos entre 2016 e 2017.
+doc29	3	Adotou-se a regressão logística para a análise multivariada.
+doc29	4	Participaram do estudo 2285 adolescentes entre 15 e 19 anos.
+doc29	5	O maior consumo de alimentos minimamente processados foi associado ao trabalho remunerado do adolescente (OR=1,27; IC95%: 1,04-1,56), a alta renda familiar (OR=1,5; IC95%=1,10-2,17) e a prática de atividade física (OR=1,9; IC95%=1,45-2,63).
+doc29	6	A cor da pele parda/preta (OR=1,3; IC95%=1,02-1,61) e o hábito de comer enquanto navega na internet (OR=1,4; IC95%=1,02-1,88) aumentaram as chances de consumir os AUP.
+doc29	7	Estar matriculados em escolas particulares e no terceiro/quarto ano do ensino médio reduziram em 41,7% e 37,2%, respectivamente, o consumo dos AUP.
+doc29	8	Conclui-se que o maior poder aquisitivo e a prática de atividade física influenciaram o alto consumo dos alimentos minimamente processados.
+doc29	9	Por outro lado, se declarar da cor da pele parda/preta e a utilização da internet ao comer aumentam as chances para a maior ingestão dos AUP.
+doc23	1	analisar as características e a tendência temporal das taxas de mortalidade na população de 5 a 14 anos em Mato Grosso e no Brasil, no período de 2009 a 2020.
+doc23	2	estudo ecológico de série temporal, sobre dados do Sistema de Informação sobre Mortalidade.
+doc23	3	As análises foram descritivas e de tendência, utilizando-se o modelo de regressão por pontos de inflexão (joinpoint) com cálculo da variação média no período (VMP).
+doc23	4	no Brasil e em Mato Grosso, os óbitos foram predominantemente masculinos, evitáveis e por causas externas.
+doc23	5	Foi identificada tendência decrescente no Brasil (5 a 9 anos VMP: -2,9; IC95% -4,3;-1,6 e 10 a 14 anos VMP: -2,5; IC95% -3,3;-1,8) e estacionária em Mato Grosso (5 a 9 anos VMP: -2,0; IC95% -5,6;1,7 e 10 a 14 anos VMP: -0,1; IC95% -5,9;6,1).
+doc23	6	a tendência estável da mortalidade em patamares elevados demanda intervenções urgentes, visando a sua redução.
+doc30	1	A alimentação adequada tem profundo impacto na saúde dos idosos, e uma especial atenção deve ser dada ao consumo de açúcares de adição na dieta, que em excesso está associado a pior controle das doenças crônicas nesta fase.
+doc30	2	O objetivo do estudo foi avaliar a prevalência do consumo de açúcares de adição de idosos da região de Campinas-SP, seus fatores associados e suas principais fontes alimentares.
+doc30	3	Trata-se de estudo transversal realizado na região de Campinas-SP, com amostra de conveniência de 586 idosos.
+doc30	4	O consumo foi obtido por meio de dois recordatórios de 24 horas, sendo inadequado se >5% do consumo energético total.
+doc30	5	Também foi calculada a contribuição dos alimentos em relação ao teor total de açúcares.
+doc30	6	Considerou-se nível crítico de p<0,05.
+doc30	7	O consumo médio de açúcares de adição estava acima do recomendado (7,0%), inadequado em mais da metade da população estudada, sendo o açúcar de mesa e o mel as principais fontes dietéticas.
+doc30	8	A prevalência de inadequação do consumo foi maior entre mulheres (69,8%; p=0,004) e em indivíduos com baixo peso (83,7%; p=0,014), e o consumo foi menor em portadores de diabetes (47,8%; p<0,001).
+doc30	9	Os resultados apontam para que sejam elaboradas ações de saúde e nutrição a fim de garantir um consumo adequado de açúcares nesta fase.
+doc1	1	caracterizar o desempenho de adolescentes de 11 a 16 anos de idade, do 6º ao 9º ano do ensino fundamental no discurso narrativo oral, bem como verificar a influência do sexo, ano escolar, idade, desempenho em testes de linguagem oral, memória e nomeação de figuras.
+doc1	2	100 adolescentes de ambos os sexos, cursando do sexto ao nono ano do ensino fundamental, sem queixa de distúrbio de linguagem e aprendizagem foram submetidos à avaliação do discurso narrativo oral (Bateria MAC), nomeação de figuras por confrontação visual (Teste de Nomeação de Boston), provas de linguagem oral e memória (NEUPSILIN).
+doc1	3	Considerou-se como variável resposta o desempenho no discurso narrativo (reconto parcial e integral e resposta a questões fechadas).
+doc1	4	Após análises univariadas, foram construídos modelos de Regressão Linear Múltipla.
+doc1	5	Apenas o desempenho geral na tarefa de nomeação foi considerado preditor do desempenho no discurso narrativo oral.
+doc1	6	Verificou-se associação diretamente proporcional entre as variáveis do discurso narrativo e da nomeação de figuras.
+doc1	7	A caracterização do desempenho dos adolescentes no reconto parcial e integral e na resposta às questões fechadas por idade, ano escolar e sexo será apresentada.
+doc1	8	Na amostra estudada, os indivíduos foram capazes de compreender e de elaborar um discurso narrativo oral de forma semelhante a adultos com menor nível de escolaridade (de dois a sete anos).
+doc1	9	Dessa forma, a prova de discurso narrativo da Bateria MAC pode ser utilizada para a avaliação de adolescentes sem adaptações.
+doc21	1	Analisar a associação entre participação em práticas integrativas e uso regular de serviços odontológicos em idosos brasileiros.
+doc21	2	Estudo transversal, com dados secundários da Pesquisa Nacional de Saúde (PNS) de 2019.
+doc21	3	Foram incluídos todos os idosos com 60 anos ou mais.
+doc21	4	O desfecho foi o uso regular de serviços odontológicos.
+doc21	5	Modelos de regressão de Poisson foram utilizados para estimar as razões de prevalências (RPs) brutas e ajustadas, e seus respectivos intervalos de confiança de 95% (IC95%).
+doc21	6	Foram analisados 22.728 idosos.
+doc21	7	A maioria era do sexo feminino (55,5%), autodeclarados brancos (51,3%), com ensino fundamental incompleto (47,0%); apenas 7,0% (IC95% 6,8;7,5) utilizaram alguma prática integrativa e 34,3% (IC95% 33,2;35,4) utilizaram o serviço odontológico de forma regular.
+doc21	8	Indivíduos que participaram de práticas integrativas apresentaram maior frequência de uso do serviço odontológico (RP = 1,15; IC95% 1,07;1,23).
+doc21	9	O uso de práticas integrativas foi associado ao uso regular de serviços odontológicos por idosos brasileiros.
+doc39	1	Investigar as barreiras percebidas e as estratégias de enfrentamento para a efetivação da prática de caminhada identificadas entre portadores do diabetes mellitus (DM) no âmbito do Sistema Único de Saúde (SUS).
+doc39	2	Uma amostra de 83 portadores do DM, usuários do SUS, foi inquirida a refletir sobre os obstáculos que os impediam de praticar a caminhada, e formular planos de enfretamento para superar tais obstáculos.
+doc39	3	Foram categorizados os obstáculos levantados e os planos desenvolvidos quanto à similaridade e submetidos à análise de frequência.
+doc39	4	O principal obstáculo relatado foi o sentimento de 'desânimo' (36,1%).
+doc39	5	O plano de enfrentamento mais frequente para superar as barreiras encontradas foi o 'apoio social de familiares', 'vizinhos' e 'amigos'.
+doc39	6	Os resultados possibilitaram conhecer as dificuldades e as potencialidades dos sujeitos relativas ao autocuidado para o DM no que se refere à prática da caminhada, conhecimento que pode auxiliar as equipes multidisciplinares do SUS.
+doc41	1	Nesta pesquisa, estudamos os custos de transporte por consulta ambulatorial em pacientes referenciados para avaliação cirúrgica especializada em um hospital terciário no Rio de Janeiro, Brasil.
+doc41	2	Trata-se de um estudo descritivo com responsáveis por pacientes pediátricos agendados para consulta de cirurgia pediátrica, questionando fatores ligados ao custo de transporte e de oportunidade (perda de remuneração, alimentação, pagamento de cuidadores para outros filhos, despesas para outros acompanhantes).
+doc41	3	Aproximadamente metade dos pacientes tinham até 5 anos de idade, cerca de 2/3 apresentavam doenças de resolutividade cirúrgica simples e definitiva e 181 famílias (89,17%) contavam com renda familiar mensal de até R$ 1.999,00.
+doc41	4	A proporção de famílias beneficiadas por transporte gratuito variou entre 4,26-15,56% para pacientes morando até 100km de distância do hospital (45,83% para pacientes com residência a mais de 100km da instituição).
+doc41	5	Dos responsáveis, 176 (87,13%) relataram despesas para alimentação, 12 (5,94%) pagavam cuidadores para os outros filhos no dia da consulta e 80 (39,6%) referiram perda do pagamento do dia de trabalho.
+doc41	6	Dos casos de alta complexidade, 9,33% das mães entrevistadas abriram mão de exercer atividade remunerada regular.
+doc41	7	As despesas com transporte para uma consulta em cirurgia pediátrica em um hospital de referência do Rio de Janeiro custam em média 4,42% do salário mínimo vigente, com uma média de 217,32 minutos de deslocamento por consulta.
+doc41	8	Despesas com alimentação e perda de remuneração pela ausência no trabalho também implicam encargos financeiros ou perda de remuneração significativos para o paciente em cada consulta.
+doc42	1	Tem surgido uma nova manifestação clínica chamada pós-COVID ou COVID longa (COVID p/l) após a fase aguda da COVID-19.
+doc42	2	COVID p/l pode levar à lesão miocárdica com problemas cardíacos subsequentes.
+doc42	3	Diagnosticar esses pacientes de forma rápida e simples é cada vez mais importante devido ao número crescente de pacientes com COVID p/l.
+doc42	4	Comparamos os parâmetros de ecocardiografia com strain (ES) de pacientes que apresentaram dor torácica atípica e achados de sequelas de miocardite na ressonância magnética cardíaca (RMC).
+doc42	5	Nosso objetivo foi investigar o valor da ES para detecção de envolvimento miocárdico em pacientes com COVID p/l.
+doc42	6	Foram incluídos um total de 42 pacientes.
+doc42	7	Nossa população foi separada em 2 grupos.
+doc42	8	O grupo RMC(-) (n = 21) não apresentou sequelas miocárdicas na RMC, enquanto o grupo RMC(+) apresentou sequelas miocárdicas na RMC (n = 21).
+doc42	9	O valor preditivo da ES para miocardite também foi avaliado por análise multivariada ajustada por idade.
+doc42	10	Valores de p < 0,05 foram considerados estatisticamente significativos.
+doc42	11	Quando comparado com a fração de ejeção do ventrículo esquerdo (FEVE), o strain longitudinal global (SLG) e o strain circunferencial global (SCG) tiveram uma relação mais forte (FEVE, p = 0,05; SLG, p < 0,001; SCG, p < 0,001) com envolvimento miocárdico associado à COVID p/l.
+doc42	12	SLG < 20,35 apresentou sensibilidade de 85,7% e especificidade de 81%; SCG < 21,35 apresentou sensibilidade de 81% e especificidade de 81% como valores diagnósticos para sequelas miocárdicas detectadas com RMC.
+doc42	13	Enquanto não houve diferença entre os grupos quanto aos marcadores inflamatórios (proteína C-reativa, p = 0,31), houve diferença entre os marcadores bioquímicos, que são indicadores de envolvimento cardíaco (peptídeo natriurético cerebral, p < 0,001).
+doc42	14	A ES é mais útil do que a ecocardiografia tradicional para diagnosticar com rapidez e precisão, a fim de não atrasar o tratamento na presença de envolvimento miocárdico.
+doc40	1	Investigar a associação entre dificuldade auditiva autorreferida e exposição ocupacional à poeira industrial em trabalhadores do sul do Brasil. Trata-se de um estudo transversal analítico, realizado com dados do inquérito da Pesquisa Nacional de Saúde (2013).
+doc40	2	A variável dependente foi a dificuldade auditiva autorreferida e a variável independente principal foi a exposição ocupacional à poeira industrial.
+doc40	3	As covariáveis foram: sexo, cor da pele, idade em anos completos, exposição a ruído e exposição à substâncias químicas.
+doc40	4	As variáveis de exposição ocupacional a ruído e substâncias químicas foram utilizadas como variáveis de ajuste (variáveis de confusão) e as análises foram estratificadas por cada estado (Santa Catarina, Paraná e Rio Grande do Sul), com o intuito de verificar a diferença na magnitude dos resultados por região.
+doc40	5	Tanto para a análise bruta quanto para a ajustada, a razão de chance foi utilizada como medida de associação, estimada por meio da análise de regressão logística.
+doc40	6	Os dados foram analisados no software Stata, versão 14.
+doc40	7	Com relação a exposição principal, 10,1% da amostra (n=490) afirmou estar exposta à poeira industrial em ambiente ocupacional, ao passo que 7,0% afirmou ter dificuldade auditiva.
+doc40	8	Na análise final, trabalhadores expostos a poeira industrial apresentaram 1,77 vezes mais chance de mencionar dificuldade auditiva, quando comparados a indivíduos não expostos a este agente.
+doc40	9	Houve associação entre dificuldade auditiva e exposição à poeira industrial em trabalhadores da região Sul do Brasil.
+doc14	1	O estudo teve como objetivo a revisão de trabalhos científicos publicados sobre a hanseníase como problema de saúde pública no Brasil e o marcador de vulnerabilidade para os portadores da enfermidade.
+doc14	2	Foi realizada uma scoping review com o descritor “hanseníase AND vulnerabilidade” na base de dados da Biblioteca Virtual em Saúde (BVS).
+doc14	3	Foram selecionados 29 artigos publicados entre janeiro de 2016 e dezembro de 2020 que atenderam aos critérios de inclusão.
+doc14	4	Os resultados apontaram para trabalhos científicos publicados em revistas indexadas e com diferentes fatores de impacto, com destaque para a maioria das publicações selecionadas constarem em periódicos com métricas de impacto pouco significativas aos olhos da comunidade internacional, ainda que elas tenham impacto nacional.
+doc14	5	A maioria dos estudos teve abrangência municipal, com destaque para cidades do Norte e do Nordeste brasileiro.
+doc14	6	Os trabalhos trataram a vulnerabilidade na hanseníase utilizando distintas tipologias.
+doc35	1	O envelhecimento populacional tem-se traduzido no aumento de prevalência de doenças crónicas como a doença renal crónica.
+doc35	2	A anemia é uma das complicações mais frequentes da doença renal crónica, com impacto não só na qualidade de vida como no prognóstico do doente e nos custos associados.
+doc35	3	O conhecimento nesta área terapêutica tem aumentado de forma significativa: desde o aparecimento da eritropoietina recombinante em 1989, passando pelo uso de doses crescentes de ferro parentérico e, mais recentemente, a novas moléculas como os inibidores do hypoxia-inducible factor.
+doc35	4	Os autores pretendem rever, de uma forma pragmática, o estado da arte da anemia associada à doença renal crónica, desde a epidemiologia, à fisiopatologia, ao diagnóstico e ao tratamento.
+doc31	1	O objetivo deste estudo é identificar fatores determinantes das disparidades das condições sociais na saúde de idosos não institucionalizados na cidade de São Paulo, sob a perspectiva da autodeclaração da cor da pele.
+doc31	2	Estudo transversal com amostra representativa de 1.017 idosos participantes do “Inquérito de Saúde do Município de São Paulo 2015”.
+doc31	3	A análise utilizou modelos de regressão de Poisson brutas e ajustadas, relatando a razão de prevalências e seus intervalos de 95% de confiança como medida de associação entre as variáveis.
+doc31	4	Na análise ajustada, a cor da pele parda e preta associou-se, positivamente, com a pior escolaridade, a autoavaliação do estado de saúde negativa, o plano de saúde e o acesso ao serviço de saúde público.
+doc31	5	De um lado, a cor da pele preta perdeu a associação com a pior renda, no entanto, associou-se com a hipertensão arterial.
+doc31	6	De outro lado, a cor da pele parda não se associou com a hipertensão arterial, mas com a renda baixa.
+doc31	7	Idosos pretos e pardos tiveram menos acesso a recursos socioeconômicos, às piores condições de saúde e, também, a serviços de saúde privados.
+doc31	8	Esses resultados são compatíveis com a hipótese de racismo estrutural na sociedade paulistana e podem instruir políticas sociais na saúde dirigidas à promoção de saúde e justiça social.
+doc20	1	verificar se o desempenho de pré-escolares nascidos prematuros e a termo no subteste de linguagem da Bayley-III difere e identificar se as variáveis idade gestacional, peso ao nascer, nível socioeconômico e escolaridade materna são determinantes no desfecho de desenvolvimento de linguagem.
+doc20	2	estudo transversal descritivo caso controle em que 36 pré-escolares nascidos prematuros e 27 nascidos a termo foram avaliados em relação ao desenvolvimento de linguagem pelo subteste da Bayley III.
+doc20	3	Foram considerados pré-escolares entre 18 e 36 meses de idade cronológica; com ausência de síndromes ou alterações genéticas, sensoriais, neurológicas, auditivas ou visuais; e que não tinham realizado terapia fonoaudiológica previamente.
+doc20	4	Os testes de Mann-Whitney, Exato de Fisher e regressão logística binária foram utilizados para análise estatística.
+doc20	5	o desempenho dos grupos não diferiu seja pela pontuação composta (p=0,701) ou pela classificação baseada no percentil (p=0,225).
+doc20	6	A idade gestacional, o peso ao nascimento e o nível socioeconômico não influenciaram no desfecho do desenvolvimento de linguagem.
+doc20	7	No entanto, a escolaridade materna foi significativa (p=0,014) no modelo de regressão logística binária, sugerindo que a mãe ter estudado até a educação básica aumenta a chance de ter um filho com desempenho abaixo do esperado no subteste de linguagem da Bayley III em 6,31 vezes.
+doc20	8	não houve diferença entre os grupos no subteste de linguagem da Bayley-III e apenas a escolaridade materna influenciou no desfecho do desenvolvimento de linguagem.
+doc28	1	A consolidação de práticas voltadas para o fortalecimento da resiliência corrobora com a atual mudança de paradigmas no âmbito da promoção da saúde de adolescentes, em que se considera a singularidade do sujeito, assim como sua relação com o meio.
+doc28	2	Identificar fatores protetivos envolvidos no processo de resiliência em adolescentes.
+doc28	3	Este trabalho revisa publicações indexadas que descrevem modelos e intervenções de atendimento ao adolescente.
+doc28	4	A análise dos textos consistiu em: 1) comparar as semelhanças e diferenças entre os conceitos utilizados; e 2) identificar, agrupar e compilar os fatores de proteção mais citados.
+doc28	5	Foram analisados 17 artigos que trabalham o fortalecimento da resiliência em seis contextos práticos distintos.
+doc28	6	A partir dos fatores de proteção encontrados foram geradas 17 ações norteadoras para desenvolvimento de trabalhos educativos em saúde.
+doc28	7	Fatores protetivos relacionado “Resolução de problemas”, “Valorização do sujeito” e “Habilidade de comunicação” foram identificados em diversos contextos de estudo sobre adolescência.
+doc28	8	Esses fatores constituem aspectos transversais necessários ao fortalecimento da resiliência e devem ser estimulados conjuntamente a fim de favorecer o desenvolvimento saudável do adolescente.
+doc43	1	analisar a custo-efetividade e calcular a razão de custoefetividade incremental do tratamento compressivo multicamadas em relação ao inelástico (bota de Unna e curto estiramento) de acordo com a literatura atual. estudo quantitativo sobre custo-efetividade por meio de modelagem com auxílio do software TreeAge® para a construção da árvore de decisão.
+doc43	2	Os pressupostos anunciados foram obtidos pelo uso de dados secundários de literatura para estimativa do custo e efetividade dos parâmetros assumidos.
+doc43	3	Para tal, foi realizada uma revisão sistemática de literatura com metanálise.
+doc43	4	a árvore de decisão, após Roll Back mostrou que a terapia multicamadas dominou as alternativas no caso-base, representando custo intermediário por aplicação, porém, com a maior efetividade.
+doc43	5	O gráfico da análise de custo-efetividade também mostrou uma dominância estendida da bota de Unna em relação à bandagem de curto estiramento.
+doc43	6	A análise de sensibilidade mostrou que a bandagem multicamadas permanece como alternativa mais custo-efetiva, dentro do limiar de disposição para pagar.
+doc43	7	a alternativa com maior custo-efetividade foi a bandagem multicamadas, considerada padrão ouro na literatura.
+doc43	8	A segunda alternativa mais custo-efetiva foi a bota de Unna, terapia mais utilizada no Brasil.
+doc38	1	A participação em saúde tem gerado um grande número de publicações em todo o mundo.
+doc38	2	Para conhecer as especificidades dessa produção nas Américas, foi realizada uma análise bibliométrica de artigos em inglês, espanhol e português.
+doc38	3	Foram realizadas buscas na BVS, PubMed, SCOPUS, WOS e SciELO, consolidando uma base de dados com 641 referências.
+doc38	4	Com auxílio do software VOSviewer, analisamos padrões de citação, coautoria e a distribuição cronológica por países e idiomas.
+doc38	5	Foi possível verificar o crescimento da produção, a relevância quantitativa e o impacto dos diferentes países.
+doc38	6	A análise indicou que os EUA concentram o maior número de citações, e o Brasil, apesar de ser o primeiro em número de publicações, é o terceiro em número de citações.
+doc38	7	O mesmo ocorre com os periódicos brasileiros que, com o maior número de artigos, caem no ranking dos mais citados.
+doc38	8	Nos dez artigos mais citados, descatam-se trabalhos desenvolvidos nos EUA e Canadá.
+doc38	9	A análise de coautoria indicou que a Universidade de Toronto, a Fiocruz e a Universidade de Harvard são as que mais têm colaborações formais com outras organizações.
+doc38	10	Concluímos que existem desigualdades de impacto, visibilidade e internacionalização neste campo, indicando obstáculos para o desenvolvimento científico e das políticas de saúde.
+doc36	1	Este estudo objetivou construir teorização a partir da concepção de atores sociais acerca das razões da não inserção da atenção à saúde bucal na Estratégia de Saúde da Família (ESF) no município de Juiz de Fora, Minas Gerais. Trata-se de um estudo qualitativo, fundamentado no referencial teórico construído com base na Política Nacional de Saúde Bucal e metodológico na Teoria Fundamentada nos Dados (TFD).
+doc36	2	Foram realizadas 11 entrevistas intensivas com atores sociais da gestão, do controle social e cirurgiões-dentistas do serviço público do município.
+doc36	3	Os dados foram categorizados segundo a TFD e a partir do processo de análise dos dados, construiu-se a teorização do estudo e obteve-se como categoria central “Consequência de uma concepção hegemônica doença-centrada da saúde para o modelo de atenção à saúde bucal”.
+doc36	4	A concepção de saúde dos atores sociais do município contribuiu para a não inserção da atenção à saúde bucal na ESF.
+doc36	5	A teorização permitiu a identificação da origem das condições do fenômeno estudado e poderá contribuir para tomada de decisões dos atores sociais em futuras ações políticas.
+doc44	1	Avaliar a eficácia da solução Welch Allyn Connex® Spot Monitor/Hillrom Connecta™ em acionar o time de resposta rápida em tempo hábil, em comparação com o acionamento manual.
+doc44	2	O estudo Hillrom é um ensaio clínico unicêntrico, aberto, de superioridade, randomizado em clusters em paralelo (taxa de alocação 1:1) realizado em um hospital terciário.
+doc44	3	Serão incluídos dois grupos de três enfermarias com 28 leitos (um grupo intervenção e um grupo controle).
+doc44	4	As enfermarias serão distribuídas aleatoriamente para utilizar a solução automatizada Welch Allyn Connex® Spot Monitor/Hillrom Connecta™ (grupo intervenção) ou para manter a rotina habitual (grupo controle) em relação ao acionamento do time de resposta rápida.
+doc44	5	O desfecho primário será o número absoluto de ocorrências de acionamento do time de resposta rápida em tempo hábil.
+doc44	6	Como desfechos secundários, características clínicas como mortalidade, parada cardíaca, necessidade de internação em unidade de terapia intensiva e duração da hospitalização serão avaliadas de forma exploratória de acordo com os grupos.
+doc44	7	Estimou-se uma amostra de 216 acionamentos de time de resposta rápida, para identificar uma possível diferença entre os grupos.
+doc44	8	O protocolo foi aprovado pelo Comitê de Ética em Pesquisa institucional.
+doc44	9	Espera-se que a solução automatizada Welch Allyn Connex® Spot Monitor/Hillrom Connecta™ seja mais eficaz no acionamento do sistema de chamada de enfermeiros, para acionar o time de resposta rápida em tempo hábil e de maneira adequada, em comparação com o acionamento manual (prática habitual).
+doc44	10	NCT04648579.
+doc32	1	No microambiente da placa aterosclerótica, os fosfolipídios oxidados expressos na superfície de lipoproteína de baixa densidade oxidada (oxLDL) se ligam a receptores scavenger em macrófagos provocando a formação de células espumosas e a progressão da placa.
+doc32	2	Autoanticorpos contra oxLDL (oxLDL-Ab) interagem com epítopos oxidativos levando à formação de imunocomplexos que são incapazes de interagir com receptores de macrófagos, assim suprimindo a aterogênese.
+doc32	3	A liberação de oxLDL-Ab pelas células B envolve a resposta da interleucina 5 e Th2, que por sua vez são potencializadas pela HDL.
+doc32	4	Assim, levantamos a hipótese de que indivíduos com níveis mais altos de HDL-C podem apresentar níveis elevados de oxLDL-Ab.
+doc32	5	Avaliar a relação entre os níveis de HDL-C e oxLDL-Ab.
+doc32	6	Indivíduos assintomáticos (n = 193) foram agrupados de acordo com sua concentração de HDL-C para uma das três categorias seguintes: baixa (< 68 mg/dL), intermediária (de 68 a 80 mg/dL) ou alta (> 80 mg/dL).
+doc32	7	Os valores p < 0,05 foram considerados estatisticamente significativos.
+doc32	8	Nossa análise incluiu 193 indivíduos (média etária: 47 anos; masculino: 26,3%).
+doc32	9	Em comparação com os indivíduos no menor tercil de HDL-C, os mais elevados foram mais velhos (36 versus 53 anos; p = 0,001) e, menos frequentemente, masculinos (42,6% versus 20,9%; p = 0,001).
+doc32	10	Os valores médios de oxLDL-Ab aumentaram à medida que o grupo HDL-C aumentou (0,31, 0,33 e 0,43 unidades, respectivamente; p = 0,001 para tendência).
+doc32	11	A regressão linear simples encontrou uma relação significativa e positiva entre a variável independente, HDL-C, e a variável dependente, oxLDL-Ab (R = 0,293; p = 0,009).
+doc32	12	Essa relação manteve-se significativa (R = 0,30; p = 0,044), após ajuste por covariáveis.
+doc32	13	Os níveis de apolipoproteína AI também estiveram relacionados a oxLDL-Ab nos modelos de regressão linear simples e ajustada.
+doc32	14	HDL-C e oxLDL-Ab estão independentemente relacionados.
+doc34	1	investigar a confiabilidade teste-reteste do programa AudBility em crianças com desenvolvimento típico de seis a sete anos.
+doc34	2	29 crianças, sexo masculino e feminino, destros, falantes nativos do Português e desempenho escolar adequado para a faixa etária estudada de acordo com o professor foram submetidas aos procedimentos de meatoscopia, imitanciometria e foi aplicado o programa AudBility, composto por questionário de autopercepção e tarefas auditivas.
+doc34	3	As tarefas incluíram localização sonora, fechamento auditivo, figura fundo, escuta dicótica, resolução temporal e ordenação temporal de frequência e duração.
+doc34	4	O programa foi reaplicado com um intervalo de 1 semana sob as mesmas condições de avaliação.
+doc34	5	O desempenho em cada tarefa foi apresentado a partir de dados de tendência central e dispersão e a confiabilidade a partir do Cálculo do Coeficiente intra-classe (CCI), com base no intervalo de confiança (IC) de 95%.
+doc34	6	As análises demonstraram CCI positivo e significante para o questionário e tarefas auditivas, exceto fechamento auditivo, nas orelhas direita e esquerda e figura-fundo na orelha esquerda.
+doc34	7	O CCI médio do questionário foi de 0,742 e variou de -0,012 a 0,698 para as tarefas auditivas.
+doc34	8	Com base no resultado médio e no limite superior do IC, os achados demonstraram concordância entre os momentos de grau bom para o questionário, e de grau bom a moderado para cinco das sete variáveis auditivas analisadas (CCI>0,05 e < 0,9).
+doc34	9	Os achados do estudo de confiabilidade representam um parâmetro importante de validação do programa para a faixa etária estudada.
+doc37	1	Verificar a relação entre área de secção transversa do reto femoral e excursão diafragmática com sucesso no desmame da ventilação mecânica em pacientes críticos crônicos com traqueostomia.
+doc37	2	Este foi um estudo de coorte observacional prospectivo.
+doc37	3	Incluímos pacientes críticos crônicos (aqueles submetidos à colocação de traqueostomia após 10 dias de ventilação mecânica).
+doc37	4	A área de secção transversa do reto femoral e a excursão diafragmática foram obtidas por ultrassonografia realizada dentro das primeiras 48 horas após a traqueostomia.
+doc37	5	Medimos a área de secção transversa do reto femoral e a excursão diafragmática para avaliar sua associação com o desmame da ventilação mecânica, incluindo sua capacidade de prever o sucesso no desmame e a sobrevida durante toda a internação na unidade de terapia intensiva.
+doc37	6	Foram incluídos 81 pacientes.
+doc37	7	Quarenta e cinco pacientes (55%) foram desmamados da ventilação mecânica.
+doc37	8	A mortalidade foi de 42% e 61,7% na unidade de terapia intensiva e hospitalar, respectivamente.
+doc37	9	O grupo que falhou em relação ao grupo que obteve sucesso no desmame apresentou menor área transversa do reto femoral (1,4 [0,8] versus 1,84 [0,76]cm2, p = 0,014) e menor excursão diafragmática (1,29 ± 0,62 versus 1,62 ± 0,51cm, p = 0,019).
+doc37	10	Quando a área de secção transversa do reto femoral ≥ 1,80cm2 e a excursão diafragmática ≥ 1,25cm era uma condição combinada, apresentava forte associação com sucesso no desmame (RC ajustada de 20,81; IC95% 2,38 - 182,28; p = 0,006), mas não com sobrevida na unidade de terapia intensiva (RC ajustada de 0,19; IC95% 0,03 - 1,08; p = 0,061).
+doc37	11	O sucesso no desmame da ventilação mecânica em pacientes críticos crônicos foi associado a medidas maiores de área de secção transversa do reto femoral e da excursão diafragmática.
+doc3	1	O objetivo da pesquisa foi analisar o perfil dos egressos, os efeitos da formação e a trajetória profissional dos que concluíram cursos presenciais de Especialização da Fiocruz.
+doc3	2	Participaram 1.620 egressos de 79 cursos concluídos entre 2013 e 2020.
+doc3	3	Foi aplicado questionário antes do ingresso e após o término do curso.
+doc3	4	Foi realizada descrição da frequência absoluta e relativa das variáveis e desenvolvido modelo de regressão logística binária para identificar variáveis associadas ao impacto positivo do curso.
+doc3	5	A razão de chance e seu intervalo de confiança de 95% foram as medidas utilizadas.
+doc3	6	Entre os egressos com impacto positivo do curso concluído: aqueles com cor de pele preta ou parda têm cerca de 40% mais chance de ter impacto positivo do curso do que os de cor de pele branca; os que têm outra formação acadêmica antes do curso têm 1,5 vez mais chance do que os que não têm outra formação anterior, aqueles que mudaram a atividade profissional em função do curso têm 3,3 mais chance do que os que não estavam trabalhando, os que informaram que o curso estava muito relacionado à atividade profissional têm 5,7 mais chance do que os que relataram que o curso teve pouca ou nenhuma relação; e cada acréscimo de 1 ano no tempo de formado aumenta em 14% a chance do impacto positivo do curso.
+doc45	1	A Apneia Obstrutiva do Sono caracteriza-se por episódios recorrentes de colapso parcial ou completo da faringe, seguidos de diminuição da saturação de oxihemoglobina e despertares frequentes.
+doc45	2	É considerada problema de saúde pública com importantes sintomas noturnos e diurnos, impactando qualidade de vida.
+doc45	3	Seus efeitos associam-se as áreas de competência da Fonoaudiologia.
+doc45	4	Para estabelecer diagnóstico e métodos de tratamento eficientes, profissionais devem conhecer a patogênese da obstrução da via aérea superior durante o sono.
+doc45	5	Visando contribuir para a compreensão da fisiopatologia da apneia obstrutiva do sono, elegibilidade de procedimentos terapêuticos individualizados e direcionamento para terapêutica miofuncional orofacial, o presente estudo tem como objetivo descrever e ilustrar os locais e tipos de colapso da via aérea superior durante o sono.
+doc45	6	Após processos éticos, foram analisados registros originais das sonoendoscopias de uma série de casos com diagnóstico polissonográfico de apneia obstrutiva do sono.
+doc45	7	As imagens das gravações dos exames foram analisadas por cinco profissionais com expertise na área do sono.
+doc45	8	Os locais obstrutivos e tipos de colapso foram apresentados conforme classificação vigente.
+doc45	9	Os vídeos foram divididos em capturas de tela, originando figuras de cada sítio anatômico: sem colapso e com colapso.
+doc45	10	Os resultados foram apresentados por imagens dos casos, que ilustram cada colapso, predominando colapso velofaríngeo: anteroposterior, lateral ou concêntrico; seguido por colapso orofaríngeo lateral; colapso anteroposterior na hipofaringe e colapso anteroposterior da epiglote.
+doc45	11	O entendimento dos locais de obstrução e tipos de colapso ilustrados nesse estudo pode ser um preditor de respostas terapêuticas, auxiliando a compreensão das limitações ou direcionando propostas para cada paciente.
+doc12	1	Este artigo, sob a forma de ensaio, tem como objetivo fazer uma interlocução entre a ética do cuidado e o cuidado paliativo pediátrico, considerando que as percepções morais são tecidas a partir de uma rede de relações e que o cuidado se constrói na intersubjetividade.
+doc12	2	Discute-se com base em quatro pilares, a que chamamos de movimentos: a ética do cuidado, como ética feminista, em diálogo com o cuidado paliativo pediátrico, a comunicação e a autonomia como ferramentas de cuidado a partir de suas características relacionais.
+doc12	3	Conclui-se que considerar esses aspectos na abordagem paliativa pode ser um caminho para exercer um compromisso moral de cuidado.
+doc33	1	O comportamento sedentário tem sido associado a diversos fatores de risco cardiometabólicos durante a infância.
+doc33	2	No entanto, pouco se sabe sobre o impacto do comportamento sedentário na saúde e nos hábitos alimentares de crianças e adolescentes fisicamente ativos.
+doc33	3	Avaliar a associação entre comportamento sedentário e fatores de risco cardiometabólicos e hábitos alimentares em crianças e adolescentes fisicamente ativos.
+doc33	4	Esse estudo transversal avaliou 516 crianças e adolescentes (10 a 18 anos; ambos os sexos) fisicamente ativos integrados no projeto social “Estação Conhecimento-Vale”.
+doc33	5	O comportamento sedentário foi determinado de maneira indireta (questionário), utilizando como ponto de corte o tempo sentado ≥ 3 h/dia.
+doc33	6	Foram estatisticamente significantes as análises com p-valor < 0,05.
+doc33	7	O comportamento sedentário não foi associado ao excesso de peso (odds ratio = 0,72 [intervalo de confiança (IC) de 95%: 0,325-1,389]), hipertrigliceridemia ( odds ratio = 0,63 [IC95%: 0,306-1,297]), HDL colesterol baixo ( odds ratio = 0,57 [IC95%: 0,323-1,019]) e HDL não colesterol alto ( odds ratio = 0,63 [IC95%: 0,283-1,389]).
+doc33	8	Contudo, crianças e adolescentes que adotavam comportamento sedentário apresentaram maior chance de consumir regularmente alimentos em frente à televisão ( odds ratio =1,96 [IC95%: 1,114-3,456]) e de consumir pelo menos um alimento ultraprocessado por dia ( odds ratio =2,42 [IC95%: 1,381-4,241]).
+doc33	9	Além disso, apresentaram menor chance de consumir frutas regularmente (OR=0,52 [IC95%: 0,278-0,967]).
+doc33	10	Não houve associação entre comportamento sedentário e fatores de risco cardiometabólicos em crianças e adolescentes fisicamente ativos.
+doc33	11	Contudo, o comportamento sedentário foi associado a hábitos alimentares inadequados.
+doc33	12	Dessa forma, podemos sugerir que a prática regular de atividade física pode atenuar os efeitos deletérios do comportamento sedentário nos parâmetros cardiometabólicos de crianças e adolescentes.
+doc46	1	Elaborar um indicador composto denominado Índice Videoquimográfico da Função Glótica – IVFG, a partir de parâmetros da videoquimografia digital, captados pelo exame de videolaringoscopia de alta velocidade de mulheres sem e com alterações laríngeas de etiologia comportamental.
+doc46	2	A amostra foi composta por 92 mulheres, destas 55 apresentaram disfonia comportamental, com presença de alterações laríngeas e vocais, e 37 mulheres sem alterações laríngeas e vocais, entre 18 a 45 anos.
+doc46	3	A avaliação vocal foi realizada por consenso pela análise perceptivo-auditiva da vogal /a/ em frequência e intensidade habituais, e classificação através do grau geral da disfonia, onde G0 indicou qualidade vocal neutra e G1 a 3 qualidade vocal alterada.
+doc46	4	As imagens laríngeas foram obtidas pela gravação da emissão da vogal /i/, em frequência e intensidade habituais para análise da videoquimografia digital.
+doc46	5	A construção do IVFG se deu pela escolha do ponto médio da glote para análise e, elaboração foi realizada regressão logística pelo programa MINITAB 19.
+doc46	6	A regressão logística contou com duas etapas, sendo que a etapa 1 constou da análise de todas as variáveis, onde as variáveis abertura máxima e fechamento glótico apresentaram significância estatística (p-valor <0.05)
+doc46	7	e o modelo se encontrou bem ajustado de acordo com o teste de Hosmer-Lemeshow (p-valor=0,794); na etapa 2, as variáveis selecionadas foram novamente analisadas e o modelo também se mostrou bem ajustado (p-valor=0,198).
+doc46	8	O IVFG foi definido por IVFG=e^(8,1318-0,2941AbMax-0,0703FechGlo)/1+e^(8,1318-0,2941AbMax-0,0703FechGlo).
+doc46	9	O IVFG apresenta valor de corte igual a 0,71.
+doc46	10	A probabilidade de acerto é de 81,5%, sensibilidade 76,4%, especificidade de 89,2%.
+doc48	1	As complicações cardiovasculares da COVID-19 são aspectos importantes da patogênese e do prognóstico da doença.
+doc48	2	Evidências do papel prognóstico da troponina e da lesão miocárdica em pacientes hospitalizados com COVID-19 na América Latina são ainda escassos.
+doc48	3	Avaliar a lesão miocárdica como preditor independente de mortalidade hospitalar e suporte ventilatório mecânico em pacientes hospitalizados, do registro brasileiro de COVID-19.
+doc48	4	Este estudo coorte é um subestudo do registro brasileiro de COVID-19, conduzido em 31 hospitais brasileiros de 17 cidades, de março a setembro de 2020.
+doc48	5	Os desfechos primários incluíram mortalidade hospitalar e suporte ventilatório mecânico invasivo.
+doc48	6	Os modelos para os desfechos primários foram estimados por regressão de Poisson com variância robusta, com significância estatística de p<0,05.
+doc48	7	Dos 2925 pacientes [idade mediana de 60 anos (48-71), 57,1%], 27,3% apresentaram lesão miocárdica.
+doc48	8	A proporção de pacientes com comorbidades foi maior nos pacientes com lesão miocárdica [mediana 2 (1-2) vs. 1 (0-20)].
+doc48	9	Os pacientes com lesão miocárdica apresentaram maiores valores medianos de peptídeo natriurético cerebral, lactato desidrogenase, creatina fosfoquinase, N-terminal do pró-peptídeo natriurético tipo B e proteína C reativa em comparação a pacientes sem lesão miocárdica.
+doc48	10	Como fatores independentes, proteína C reativa e contagem de plaquetas foram relacionados com o risco de morte, e neutrófilos e contagem de plaquetas foram relacionados ao risco de suporte ventilatório mecânico invasivo.
+doc48	11	Os pacientes com níveis elevados de troponina apresentaram um maior risco de morte (RR 2,03, IC95% 1,60-2,58) e suporte ventilatório mecânico (RR 1,87;IC95% 1,57-2,23), em comparação àqueles com níveis de troponina normais.
+doc48	12	Lesão cardíaca foi um preditor independente de mortalidade hospitalar e necessidade de suporte ventilatório mecânico em pacientes hospitalizados com COVID-19.
+doc50	1	Nos últimos anos, vários biomarcadores estão ganhando importância clínica na avaliação diagnóstica e prognóstica de pacientes com doenças cardiovasculares.
+doc50	2	O fator de crescimento e diferenciação celular-15 (GDF-15) é uma citocina induzida por estresse e inflamação, membro da família do TGF-, cuja produção no miocárdio foi demonstrada experimentalmente em resposta à injúria isquêmica ou sobrecarga cardíaca.
+doc50	3	Este novo marcador foi positivamente correlacionado com aumento do risco de eventos cardiovasculares em estudos populacionais e configurou-se preditor independente de mortalidade e prognóstico adverso em pacientes com doença arterial coronariana e insuficiência cardíaca.
+doc50	4	Este trabalho tem como objetivo revisar o valor diagnóstico e prognóstico do GDF-15 em diferentes cenários na cardiologia.
+doc49	1	Este trabalho analisa as evidências atuais sobre a discriminação percebida por adultos mais velhos (> 50 anos) no uso de serviços de saúde e identifica os fatores associados a essa experiência.
+doc49	2	Trata-se de uma revisão integrativa da literatura, realizada a partir de pesquisa nos sítios eletrônicos Biblioteca Virtual de Saúde, CINAHL, Medline, Scopus e Web of Science, em junho de 2021.
+doc49	3	Foram utilizados os descritores: discriminação social ou ageismo; pessoa de meia-idade ou idoso de 80 anos ou mais ou idoso; e serviço de saúde ou serviço de saúde para idosos, incluindo sinônimos, nos idiomas português, inglês e espanhol.
+doc49	4	A estratégia de busca identificou 1.165 artigos; 19 cumpriram os critérios de elegibilidade e inclusão.
+doc49	5	O acervo inclui estudos quantitativos e qualitativos publicados entre 2002 e 2021; cerca de 60% realizados nos Estados Unidos e Austrália.
+doc49	6	A prevalência de discriminação no uso de serviços de saúde variou de 2% a 42%.
+doc49	7	O relato de práticas discriminatórias se mostrou associado a características étnico-raciais, sexo, idade, orientação sexual, aparência física e classe social.
+doc49	8	Ao dar visibilidade ao tema, este trabalho visa estimular a definição de formas concretas de enfrentamento à discriminação e interromper a perpetração de iniquidades no âmbito da atenção à saúde.
+doc47	1	Avaliar a associação do autorrelato de problemas no sono com a presença de doenças crônicas não transmissíveis (DCNTs) e multimorbidades, e se essas associações diferem por sexo.
+doc47	2	Estudo transversal realizado com dados da Pesquisa Nacional de Saúde 2019.
+doc47	3	Razões de prevalências entre morbidades, número de DCNTs e autorrelato de problemas no sono foram estimadas por regressão de Poisson com variância robusta, por sexo.
+doc47	4	Foram analisados 85.531 brasileiros com idade ≥ 18 anos.
+doc47	5	Os problemas no sono autorrelados associaram-se a todas as morbidades e multimorbidades.
+doc47	6	A prevalência dos problemas no sono foi maior nos que declararam uma ou duas (RP = 2,37; IC95% 2,22;2,54) e três ou mais DCNTs (RP = 4,73; IC95% 4,37;5,11).
+doc47	7	As razões de prevalências da associação com diabetes, doenças pulmonares, mentais, renais e multimorbidades foram mais elevadas entre o sexo masculino.
+doc47	8	As DCNTs impactaram significativamente a qualidade do sono em ambos os sexos, com associação mais forte para o sexo masculino.
+doc18	1	Identificar a variabilidade espacial da mortalidade por câncer de mama e colo do útero e avaliar fatores associados à mortalidade por esses cânceres no município de São Paulo.
+doc18	2	Entre 2009 e 2016 foram registrados, no Sistema de Informações sobre Mortalidade, 10.124 óbitos por câncer de mama e 2.116 óbitos por câncer do colo do útero em mulheres com 20 anos e mais.
+doc18	3	Os registros foram geocodificados por endereço de residência e agregados segundo território adstrito.
+doc18	4	Foram realizadas modelagens de regressão espacial utilizando-se a abordagem bayesiana com estrutura de Besag-York-Mollié para verificar a associação dos óbitos com indicadores selecionados.
+doc18	5	As taxas de mortalidade por esses cânceres apresentaram padrões espaciais inversos.
+doc18	6	As variáveis associadas à mortalidade por câncer de mama foram: tempo de deslocamento para o trabalho entre uma e duas horas (risco relativo — RR 0,97; intervalo de credibilidade — IC95% 0,93–1,00); mulheres responsáveis pelo domicílio (RR 0,97; IC95% 0,94–0,99) e óbitos por câncer de mama ocorridos em estabelecimentos privados (RR 1,04; IC95% 1,00–1,07).
+doc18	7	À mortalidade por câncer do colo do útero, estiveram associados: tempo de deslocamento para o trabalho entre meia e uma hora (RR 0,92; IC95% 0,87–0,98); rendimento domiciliar até três salários-mínimos (RR 1,27; IC95% 1,18–1,37); e razão de menores de um ano em relação à população feminina de 15 a 49 anos (RR 1,09; IC95% 1,01–1,18).
+doc18	8	Foram calculados os RR preditos para a mortalidade por esses cânceres, que estiveram associados às condições socioeconômicas das áreas de abrangência.
