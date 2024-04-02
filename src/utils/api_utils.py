@@ -43,7 +43,6 @@ def test_google_auth():
     except Exception as e:  
         logger.error("Google Translate API authentication failed: %s", e)
 
-test_google_auth()
 
 # ================= DEEPL API ================= 
 
@@ -59,7 +58,6 @@ def test_deepl_auth():
     except Exception as e:
         logger.error("DeepL API authentication failed: %s", e)
 
-test_deepl_auth()
 
 
 
@@ -94,5 +92,7 @@ def test_openai_auth():
     except openai.AuthenticationError as e: 
         logger.error("OpenAI API Authentication Failed: %s", e)
 
-test_openai_auth()
-
+def test_all_auth():
+    test_google_auth()
+    test_deepl_auth()
+    test_openai_auth()
