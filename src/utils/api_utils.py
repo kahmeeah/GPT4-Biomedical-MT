@@ -59,25 +59,6 @@ def test_deepl_auth():
         logger.error("DeepL API authentication failed: %s", e)
 
 
-
-
-# ================= CUBBITT API ================= 
-
-# response = requests.get("https://lindat.mff.cuni.cz/services/translation/api/v2/")
-# if response:
-#     data = response.json()
-#     print("Success!")
-# else:
-#     raise Exception(f"Non-success status code: {response.status_code}")
-
-# print(data)
-
-# cubbitt_models={
-#     "English->French (CUBBITT)":"en-fr",
-#     "French->English (CUBBITT)":"fr-en",
-# }
-
-
 # ================= OPENAI API ================= 
 
 OPENAI_MODEL = os.environ.get('OPENAI_MODEL')
