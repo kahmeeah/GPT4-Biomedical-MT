@@ -2,6 +2,7 @@
 from logging import Logger
 import utils.config as config
 import utils.api_utils as api 
+from gpt_4 import translate_sentence
 # from processing import 
 # from translation import 
 # from evaluation import
@@ -19,28 +20,29 @@ def load_data(filename):
         data = [line.strip() for line in data]
     return data
 
-def process_sentences(data):
+def process_sentences(data, src, trg, model):
     sentences = []
+    doc_ids = []
+    lines = []
     for line in data:
         items = line.split('\t')
+        doc_ids.append(items[0])
+        lines.append(items[1])
         sentence = items[2]
+        if model == 'gpt-4':
+            translated_sentence = translate_sentence(src, trg, sentence)
+        sentences.append(translated_sentence)
+    return doc_ids, lines, sentences
 
-
-    return sentences
-
-def translate_sentences(sentence):
-    pass
-
-def generate_submission(filename):
+def generate_submission(filename, doc_ids, lines, sentences):
     with open(filename, 'w') as f:
-        f.write("DOC_ID\tSENT_ID\tTRANSLATED_SENTENCE\n")
-        for doc_id in range(1, 5):
-            for sent_id in range(1, 4):
-                f.write(f"doc{doc_id}\t{sent_id}\ttranslated_sentence_{sent_id}\n")
+        for i in range(len(doc_ids)):
+            f.write(f"{doc_ids[i]}\t{lines[i]}\t{sentences[i]}\n")
+        
 def main():
-    data = load_data('reference_files/medline_en2pt_en.txt')
-    sentences = process_sentences(data)
-
+    data = load_data('../test_files/test.txt')
+    #doc_ids, lines, sentences = process_sentences(data, 'portuguese', 'english', 'gpt-4')
+    #generate_submission('../test_files/submission.txt', doc_ids, lines, sentences)
 
 if __name__ == "__main__":
     main()
