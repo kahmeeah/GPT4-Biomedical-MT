@@ -26,12 +26,12 @@ PROJECT_ID = os.environ.get('PROJECT_ID')
 CREDENTIAL_PATH = os.environ.get('GOOGLE_APPLICATION_CREDENTIALS')
 assert PROJECT_ID
 PARENT = f"projects/{PROJECT_ID}"
+google_client = translate.TranslationServiceClient()
 
 def test_google_auth():
     try:
         # Perform a simple translation task to trigger authentication
-        client = translate.TranslationServiceClient()
-        response = client.translate_text(
+        response = google_client.translate_text(
             parent=PARENT,
             contents="Hello",
             target_language_code="es",
@@ -61,13 +61,13 @@ def test_deepl_auth():
 # ================= OPENAI API ================= 
 
 OPENAI_MODEL = os.environ.get('OPENAI_MODEL')
-client = OpenAI(
+openai_client = OpenAI(
     api_key = os.environ.get('OPENAI_KEY')
 )
 
 def test_openai_auth():
     try:
-        client.models.list()
+        openai_client.models.list()
         logger.info("OpenAI API Authentication Successful")
     except openai.AuthenticationError as e: 
         logger.error("OpenAI API Authentication Failed: %s", e)
