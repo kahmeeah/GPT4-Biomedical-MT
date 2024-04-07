@@ -1,1 +1,0 @@
-# Core translation function taking a sentence, target language, and calling appropriate API functions
