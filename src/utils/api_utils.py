@@ -1,5 +1,4 @@
-# Functions to interact with GPT-4, Google Translate, DeepL, and CUBBITT APIs
-# Handle input/output formatting for each service
+# Functions to interact with GPT-4, Google Translate, and DeepL  APIs
 import logging
 import openai
 import requests
@@ -53,7 +52,7 @@ translator = deepl.Translator(DEEPL_AUTH_KEY)
 def test_deepl_auth():
     try:
         result = translator.translate_text("Hello, world!", target_lang="FR")
-        logger.info("DeepL API authentication successful.")  # "Bonjour, le monde !"
+        logger.info("DeepL API authentication successful.") 
 
     except Exception as e:
         logger.error("DeepL API authentication failed: %s", e)
