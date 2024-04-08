@@ -4,6 +4,7 @@ from logging import Logger
 from tqdm.auto import tqdm
 import utils.api_utils as api 
 from translation import google_translate, deepl_translate, gpt4_translate
+from evaluation import * 
 
 try:
     api.test_all_auth()
@@ -38,13 +39,12 @@ def process_sentences(data, src, trg, model):
             pbar.update(1)
     return doc_ids, lines, sentences
 
-def generate_submission(filename, doc_ids, lines, sentences):
+def generate_prediction_file(filename, doc_ids, lines, sentences):
     with open(filename, 'w') as f:
         for i in range(len(doc_ids)):
             f.write(f"{doc_ids[i]}\t{lines[i]}\t{sentences[i]}\n")
 
-def get_input():
-
+def handle_translation():
     LANGUAGE_CODES = {
         "english":"en",
         "portuguese":"pt",
@@ -70,23 +70,42 @@ def get_input():
     elif model == "google-translate":
         src = LANGUAGE_CODES.get(src)
         trg = LANGUAGE_CODES.get(trg)
-    
-    return file_name, model, src, trg 
-        
-def main():
 
-    # test_files/medline_pt2en_pt.txt
-
-    file_name, model, src, trg = get_input()
- 
     data = load_data(os.path.join('test_files', file_name))
 
     doc_ids, lines, sentences = process_sentences(data, src, trg, model)
 
-    output_filename = f"submission_{model}_{src}2{trg}.txt"
-    generate_submission(os.path.join('test_files', output_filename), doc_ids, lines, sentences)
+    output_filename = f"prediction_{model}_{src}2{trg}.txt" #TODO: generate results folder and put this in there
+    generate_prediction_file(os.path.join('results/prediction_files', output_filename), doc_ids, lines, sentences)
 
-    print(f"Submission file generated: {output_filename}") 
+    print(f"Prediction file generated: {output_filename}") 
+
+def handle_evaluation():
+    # TODO: verify filename exists
+    reference_file = input("Enter the name of your reference file. Ensure it is placed under the \"reference_files/\" directory.\n> ")
+
+    prediction_file = input("Enter the name of your prediction file. Ensure it is placed under the \"prediction_files/\" directory.\n> ")
+
+    refs, preds = detokenize(os.path.join('results/prediction_files', reference_file), os.path.join('results/prediction_files', prediction_file)) #TODO: add ref files and refactor accordingly
+
+    calculate_bleu_corpus(refs, preds)
+    calculate_bleu_sentence(refs, preds)
+
+    print(f"Evaluation complete.") 
+        
+def main():
+
+    # test_files/medline_pt2en_pt.txt
+    # prediction_deepl_PT2EN-US.txt
+    # prediction_google-translate_pt2en.txt
+
+    task = input("Choose a task:\ntranslate\t\tevaluate\n> ")
+    if task == "translate":
+        handle_translation()
+    elif task == "evaluate":
+        handle_evaluation()
+    else:
+        raise ValueError("Enter valid task name.")
     
 
 if __name__ == "__main__":
