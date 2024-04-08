@@ -6,7 +6,6 @@ __pycache__/
 
 # generated files
 *.txt
-/results/  
 
 # secets
 .env
