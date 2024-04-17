@@ -4,9 +4,6 @@ venv/
 .venv/
 __pycache__/
 
-# generated files
-*.txt
-
 # secets
 .env
 src/GPT4-Biomedical-MT.json
