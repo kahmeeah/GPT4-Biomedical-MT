@@ -5,6 +5,7 @@ md = MosesDetokenizer(lang='en')
 def detokenize(reference_file, translation_file):
     # open files and detokenize
     refs = []
+<<<<<<< HEAD
     with open(reference_file) as ref_file:
         for line in ref_file: 
             pmid, sentence = line.strip().split('\t')
@@ -16,6 +17,19 @@ def detokenize(reference_file, translation_file):
             pmid, sentence = line.strip().split('\t')
             sentence = md.detokenize(sentence.split())
             refs.append(sentence)
+=======
+    with open(reference_file) as test:
+        for line in test: 
+            line = line.strip().split() 
+            line = md.detokenize(line) 
+            refs.append(line)
+    preds = []
+    with open(translation_file) as pred:  
+        for line in pred: 
+            line = line.strip().split() 
+            line = md.detokenize(line) 
+            preds.append(line)
+>>>>>>> 03aece7a903f902e0986fec0389ea4b42dfab053
     return refs, preds
 
 def calculate_bleu_sentence(refs, preds):
