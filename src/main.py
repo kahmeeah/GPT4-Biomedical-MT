@@ -6,29 +6,45 @@ import utils.api_utils as api
 from translation import google_translate, deepl_translate, gpt4_translate
 from evaluation import * 
 
+SRC_LANGUAGE_CODES = {
+    "1":"en",
+    "2":"pt",
+    "3":"de",
+}
+
+TRG_LANGUAGE_CODES = {
+    "1":"en-us",
+    "2":"pt-br",
+    "3":"de",
+    }
+
 try:
     api.test_all_auth()
     print("APIs Authenthicated.")
 except Exception as e:
     Logger.error("One or more APIs failed: ", e)
 
-    
 def load_data(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         data = f.readlines()
         data = [line.strip() for line in data]
     return data
 
+def generate_prediction_file(filename, pm_ids, lines, sentences):
+    with open(filename, 'w') as f:
+        for i in range(len(pm_ids)):
+            f.write(f"{pm_ids[i]}\t{sentences[i]}\n")
+
 def process_sentences(data, src, trg, model):
     sentences = []
-    doc_ids = []
+    pm_ids = []
     lines = []
     with tqdm(total=len(lines), desc="\033[92mTranslating sentences\033[0m") as pbar:  # Progress bar for sentences
         for line in data:
             items = line.split('\t')
-            doc_ids.append(items[0])
+            pm_ids.append(items[0])
             lines.append(items[1])
-            sentence = items[2]
+            sentence = items[1]
             if model == 'gpt-4':
                 translated_sentence = gpt4_translate(src, trg, sentence)
             elif model == 'google-translate':
@@ -37,76 +53,81 @@ def process_sentences(data, src, trg, model):
                 translated_sentence = deepl_translate(src, trg, sentence)
             sentences.append(translated_sentence)
             pbar.update(1)
-    return doc_ids, lines, sentences
+    return pm_ids, lines, sentences
 
-def generate_prediction_file(filename, doc_ids, lines, sentences):
-    with open(filename, 'w') as f:
-        for i in range(len(doc_ids)):
-            f.write(f"{doc_ids[i]}\t{lines[i]}\t{sentences[i]}\n")
+def handle_translation(data, model, src, trg):
+    pmids, lines, sentences = process_sentences(data, src, trg, model)
+    output_filename = f"prediction_{model}_{src}2{trg}.txt" 
+    generate_prediction_file(os.path.join('../result_files/'+model, output_filename), pmids, lines, sentences)
+    print(f"Prediction file generated: {output_filename}")
 
-def handle_translation():
-    LANGUAGE_CODES = {
-        "english":"en",
-        "portuguese":"pt",
-        "german":"de",
-    }
-    TRANSLATION_MODELS = ["gpt-4", "google-translate", "deepl"]
-    trg = 'english' # default is english
-
-    file_name = input("Enter file name. Ensure it is placed under the \"test_files/\" directory.\n> ")
-
-    model = input("Choose translation model: \ngpt-4\t\tgoogle-translate\t\tdeepl\n> ").lower()
-    if model not in TRANSLATION_MODELS:
-        raise ValueError("Invalid translation model")
-
-    src = input("Choose source language: \nportuguese\t\tgerman\n> ").lower()
-    if src not in LANGUAGE_CODES:
-        raise ValueError("Invalid source language.")
-    
-    # handle differing language codes 
+def handle_evaluation(data, model, src, trg):
+    '''if model == "google-translate":
+        pass
     if model == "deepl":
-        src = LANGUAGE_CODES.get(src).upper() 
-        trg = LANGUAGE_CODES.get(trg).upper() + '-US' 
-    elif model == "google-translate":
-        src = LANGUAGE_CODES.get(src)
-        trg = LANGUAGE_CODES.get(trg)
-
-    data = load_data(os.path.join('test_files', file_name))
-
-    doc_ids, lines, sentences = process_sentences(data, src, trg, model)
-
-    output_filename = f"prediction_{model}_{src}2{trg}.txt" #TODO: generate results folder and put this in there
-    generate_prediction_file(os.path.join('results/prediction_files', output_filename), doc_ids, lines, sentences)
-
-    print(f"Prediction file generated: {output_filename}") 
-
-def handle_evaluation():
-    # TODO: verify filename exists
-    reference_file = input("Enter the name of your reference file. Ensure it is placed under the \"reference_files/\" directory.\n> ")
-
-    prediction_file = input("Enter the name of your prediction file. Ensure it is placed under the \"prediction_files/\" directory.\n> ")
-
-    refs, preds = detokenize(os.path.join('results/prediction_files', reference_file), os.path.join('results/prediction_files', prediction_file)) #TODO: add ref files and refactor accordingly
-
+        if src == "EN" and trg == "PT-BR":
+            reference_file = os.path.join('../parallel_files/en_pt', 'pt.txt')
+            prediction_file = os.path.join('../result_files/deepl/prediction_deepl', 'EN2PT-BR.txt')
+        elif src == "PT" and trg == "EN-US":
+            reference_file = os.path.join('../parallel_files/en_pt', 'en.txt')
+            prediction_file = os.path.join('../result_files/deepl/prediction_deepl', 'PT2EN-US.txt')
+        elif src == "EN" and trg == "DE":
+            reference_file = os.path.join('../parallel_files/en_de', 'de.txt')
+            prediction_file = os.path.join('../result_files/deepl/prediction_deepl', 'EN2DE.txt')
+        elif src == "DE" and trg == "EN-US":
+            reference_file = os.path.join('../parallel_files/en_de', 'en.txt')
+            prediction_file = os.path.join('../result_files/deepl/prediction_deepl', 'DE2EN-US.txt')
+    refs, preds = detokenize(os.path.join('results/prediction_files', reference_file), os.path.join('results/prediction_files', prediction_file)) 
     calculate_bleu_corpus(refs, preds)
     calculate_bleu_sentence(refs, preds)
+    print(f"Evaluation complete.") '''
+    pass
 
-    print(f"Evaluation complete.") 
-        
 def main():
-
-    # test_files/medline_pt2en_pt.txt
-    # prediction_deepl_PT2EN-US.txt
-    # prediction_google-translate_pt2en.txt
-
-    task = input("Choose a task:\ntranslate\t\tevaluate\n> ")
-    if task == "translate":
-        handle_translation()
-    elif task == "evaluate":
-        handle_evaluation()
-    else:
-        raise ValueError("Enter valid task name.")
+    task = input("Choose a task:\n(1)translate\t\t(2)evaluate\n> ")
+    model = input("Choose translation model: \n(1)gpt-4\t\t(2)google-translate\t\t(3)deepl\n> ").lower()
+    if model not in ("1","2","3"):
+        raise ValueError("Invalid translation model")
+    TRANSLATION_MODELS = {
+        "1":"gpt-4",
+        "2":"google-translate",
+        "3":"deepl",
+    }
+    model = TRANSLATION_MODELS.get(model)
+    src = input("Choose source language:\n(1)english\n(2)portuguese\n(3)german\n> ").lower()
+    if src not in SRC_LANGUAGE_CODES:
+        raise ValueError("Invalid source language.")
+    trg = input("Choose target language: \n(1)english\n(2)portuguese\n(3)german\n> ").lower()
+    if trg not in TRG_LANGUAGE_CODES:
+        raise ValueError("Invalid target language.")
+    elif src == trg:
+        raise ValueError("Source and target languages must be different.")
+    elif src != "1":
+        if trg != "1":
+            raise ValueError("One of the languages must be English.")
+    file_name = ""
+    if src == "1" and trg == "2":
+        file_name = os.path.join('../parallel_files/en_pt', 'en.txt')
+    elif src == "2" and trg == "1":
+        file_name = os.path.join('../parallel_files/en_pt', 'pt.txt')
+    elif src == "1" and trg == "3":
+        file_name = os.path.join('../parallel_files/en_de', 'en.txt')
+    elif src == "3" and trg == "1":
+        file_name = os.path.join('../parallel_files/en_de', 'de.txt')
+    data = load_data(file_name)
+    if model == "deepl" or model == "gpt-4":
+        src = SRC_LANGUAGE_CODES.get(src).upper() 
+        trg = TRG_LANGUAGE_CODES.get(trg).upper()
+    elif model == "google-translate":
+        src = SRC_LANGUAGE_CODES.get(src)
+        trg = TRG_LANGUAGE_CODES.get(trg)
     
-
+    if task == "1":
+        handle_translation(data, model, src, trg)
+    elif task == "2":
+        handle_evaluation(model, src, trg)
+    else:
+        raise ValueError("Enter valid task name. 1 for translation, 2 for evaluation.")
+    
 if __name__ == "__main__":
     main()

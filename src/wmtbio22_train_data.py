@@ -78,7 +78,8 @@ def fetch_pubmed_articles(ids):
 	return set_articles, set_langs
 
 def fetch_multiple_articles(pmids, out_dir, lang1, lang2):
-	#print(pmids)
+	processed_pmids_lang1 = set()
+	processed_pmids_lang2 = set()
 	set_articles, set_langs = fetch_pubmed_articles(pmids)
 	for index in range(0,len(set_articles)):
 		langs = set_langs[index]
@@ -90,18 +91,23 @@ def fetch_multiple_articles(pmids, out_dir, lang1, lang2):
 			lang = detect(item["abstracttext"])
 			if lang!=lang1 and lang!=lang2:
 				continue
+			processed_pmids = processed_pmids_lang1 if lang == lang1 else processed_pmids_lang2
+			if item["pmid"] in processed_pmids:
+				print(f'Duplicate PMID found for {lang}: {item["pmid"]}')
+				continue	
+			processed_pmids.add(item["pmid"])
 			if lang not in line_counts:
 				line_counts[lang] = 0
-			if line_counts[lang] < 500:
+			if line_counts[lang] < 100:
 				with open(os.path.join(out_dir, lang + ".txt"), "a") as writer:
-					writer.write(item["pmid"] + ' ')
+					writer.write(item["pmid"] + '\t')
 					writer.write(item["abstracttext"] + "\n")
 					line_counts[lang] += 1
 				writer.close()
 			else:
-				print('Reached 500 lines for ' + lang + '!')
-				if all(count == 500 for count in line_counts.values()):
-					print('All languages have reached 500 lines. Stopping program.')
+				print('Reached 100 lines for ' + lang + '!')
+				if all(count == 100 for count in line_counts.values()):
+					print('All languages have reached 100 lines. Stopping program.')
 					sys.exit(0)
 				return  
 
@@ -122,10 +128,11 @@ def get_lang1_lang2(filename):
 	lang2 = map_langs[lang2]
 	return lang1, lang2
 
-def retrieve_abstracts(filename, out_dir):
+def retrieve_abstracts(file_path, out_dir):
+	filename =  os.path.basename(file_path)
 	lang1, lang2 = get_lang1_lang2(filename)
 	pmids = []	
-	with open(os.path.join(filename), "r") as reader:
+	with open(file_path, "r") as reader:
 		lines = reader.readlines()
 		for line in lines:
 			pmid = line.strip()
@@ -140,4 +147,3 @@ def retrieve_abstracts(filename, out_dir):
 
 if __name__ == '__main__':
 	retrieve_abstracts(sys.argv[1],sys.argv[2])
-

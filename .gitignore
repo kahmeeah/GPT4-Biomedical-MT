@@ -6,5 +6,5 @@ __pycache__/
 
 # secets
 .env
-src/GPT4-Biomedical-MT.json
+src/utils/GPT4-Biomedical-MT.json
 
