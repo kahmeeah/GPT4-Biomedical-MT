@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+venv/
+.venv/
+__pycache__/
+
+# secets
+.env
+src/utils/GPT4-Biomedical-MT.json
+
