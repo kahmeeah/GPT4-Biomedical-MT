@@ -1,0 +1,100 @@
+34075261	We document variances between MNEs in exposure to these risks, proposing that the intensity of information flow, geographical diversity, international strategy and participation in the global platform have strong implications for a company's exposure to risk and its response.
+34076063	A significance level of 5% was adopted.
+34076064	In the multivariate regression analysis, NT-proBNP and elabela levels were considered independent predictors for CTO.
+34076089	At the end of the period, 25.8% of elderly men were still alive, and the factors that stood out as having the highest probability of survival were: performing 50% or more of the basic and/or instrumental activities of daily living (95% confidence interval [CI] 0.41 - 0.64), being head of the household (95% CI 0.42 - 0.82), having community participation (95% CI 0.52 - 0.88), being self-employed or a landlord (95% CI 0.54 - 0.88) and owning their own home and movable property (95% CI 0.56 - 0.92).
+34076090	The health insurance profile was more associated with married or living with a spouse.
+34076095	Prevalence rates were estimated using a multinomial regression model, and the characterization of health care was based on triangulation between the National Health Survey (PNS), the National Program for Improving Primary Care Access and Quality (PMAQ-AB) and data from the Popular Pharmacy.
+34076098	In patients with rectal cancer, there is a greater chance of delay in starting treatment among those aged over 50, of black race/skin color (OR = 1.44; 95%CI: 1.20-1.72) and brown (OR = 1.29; 95%CI: 1.19-1.39), illiterate (OR = 1.71; 95%CI: 1.40-2.09) or with low schooling and whose treatment took place in a municipality other than their home (OR = 1.35; 95%CI: 1.25-1.47).
+34076099	However, the changes in the articulation of the different dimensions are the result of both broad processes of social transformation and specific experiences and temporalities, which are fundamental to understanding the results of this process.
+34076100	This way of operating does not produce or encourage women to seek out social and health services, but rather the opposite.
+34076101	TMTC is a program structured to offer global cough rehabilitation.
+34076103	We analyzed from the theoretical approach of traditional community studies.
+34076104	This research seeks to analyze residents' knowledge of the territory, the Pecém Industrial and Port Complex (CIPP), the quality of life of the communities living around the developments, as well as the prevalence of hypertension and overweight.
+34076105	This study evaluated the accessibility of care in the Family Health Strategy (ESF) in a municipal system, the headquarters of a health macro-region in the state of Bahia.
+34076106	The work of Community Health Agents (CHAs) was analyzed in the light of the Communities of Practice (CoP) theory.
+34076107	This highlights the need for public policies aimed at occupational health.
+34076108	The aim of the study was to investigate doctors' perceptions of the various forms of employment and their influence on the performance of the essential attributes of PHC, in order to analyze the forms of employment that best contribute to its implementation and strengthening.
+34076109	This is a qualitative study carried out with 32 professionals working in a basic health unit.
+34076110	Women between the ages of 26 and 30 had higher averages for the number of accesses (5.21), number of scenarios accessed (9.26) and usage time (272 seconds) compared to younger and older women.
+34076111	The screens were designed and the possible functions were selected; after the design, the APP prototype was developed and named "DM Agendinha".
+34076112	Among the solutions produced is GISSA®, a cloud system resulting from the scientific and technological evolution of the LARIISA project.
+34076113	The conclusion is that the postgraduate program has made a satisfactory contribution to the training of critical, active teachers, with competencies that have been developed and are being carried out in professional practice.
+34076114	To do this, we used the database of the Primary Care Department/DATASUS to collect secondary data on the historical series of Primary Care team qualifications.
+34076115	The article analyzes the conceptions of ESF professionals regarding mental health and the production of care in a Basic Health Unit in the Northeast of Brazil.
+34076116	Among the indicators evaluated, it was found that the teams held meetings and planned actions, self-assessment, monitoring and analysis of health indicators to reorganize the work process, highlighting the determining and conditioning factors.
+34076117	Proportions and 95% confidence intervals were calculated according to Federative Unit in the Northeast region of Brazil.
+34076118	Analyses were carried out according to the contextual characteristics of the municipality (population size and human development) and the health team (whether it was part of the More Doctors Program or conventional and whether it had a nutritionist or not).
+34076119	At least one PIM was prescribed for 44.8% of the elderly, most of them acting on the Central Nervous System (54.4%).
+34076120	The representational structure is anchored in subjective, evaluative and attitudinal content.
+34076121	These findings can serve as a basis for designing and implementing leprosy control and surveillance measures, targeting the most vulnerable groups and making them more effective.
+34076122	Known internationally for having institutionalized the Health Agents Program in Ceará in 1987, he discusses the implementation process at Fiocruz-CE and the role of research in guiding the work of the Family Health Strategy during the Covid-19 pandemic.
+34076123	More research is needed to understand this relationship and enable professionals involved in adolescent health to act effectively to combat physical inactivity.
+34076125	Finally, it discusses the successes and limitations of the technology transfer mechanism used by the two institutions, as well as the relevance of their historical commitment to public health policies.
+34076126	The results point to the importance of body appearance and the affective bond between partners in engendering emotions that mediate dealing with the risk of infection in both pandemics.
+34076127	Adherence was measured by the frequency of leaving the house, the need to leave the house, the use of masks and hand hygiene.
+34076129	The North and Northeast regions had the highest number of Basic Health Units more than 5 kilometers away from cell phone antennas.
+34076131	In the period investigated, 475 military police officers suffered firearm injuries: 98.3% were male, 77.3% were on duty, 97.9% were privates.
+34076133	The DER Model, resilience and World Health Quality of Life (WHOQOL-bref) scales assessed psychosocial stress, resilience and quality of life.
+34076134	Moderate physical activity reduced the chance of this type of dissatisfaction by 50%.
+34076135	A cross-sectional study of mothers in health units in the municipality of Rio de Janeiro, carried out between June 2005 and December 2009.
+34076136	All the streets were walked to identify the food establishments, whose geographical coordinates were recorded, and the availability, price and quality of 108 items were assessed using the NEMS (Nutrition Environment Measures Survey in Stores) questionnaire.
+34076137	A cross-sectional study was carried out with the question "Do you have any difficulty seeing near and/or far?".
+34076154	Retrospective cohort of blunt trauma patients in an intensive care unit based on medical records.
+34076179	To compare the effect of non-nutritive sucking, 25% oral glucose and 25% oral glucose combined with non-nutritive sucking on pain relief in premature newborns undergoing heel pricks for blood glucose monitoring.
+34076180	Fake news has the potential to produce vaccine hesitancy based on the 3Cs model.
+34076209	Logistic regression models were used to identify associated factors.
+34076227	A cross-sectional population-based study of elderly people, obtained through complex sampling.
+34076228	Increasing the number of slides increased the positivity of the Kato-Katz test, which could help to maximize control of the disease as a public health problem.
+34076229	The World Health Organization Violence Against Women Study instrument was used to identify the form of violence.
+34077986	The number of pregnancies was higher in postmenopausal patients when compared to premenopausal patients (median of 3 with interquartile range [IQR] = 2-4 versus median of 2 with IQR = 1-3; <p</i> = 0.009).
+34077987	This study aimed to determine the performance and evaluate the agreement between an immunoassay in dried blood and a reference test in serum from pregnant women in a population-based prenatal screening program for toxoplasmosis in Brazil.
+34077988	These cells express cytotoxic T-lymphocyte molecules, producing anti-tumor proinflammatory cytokines.
+34077989	To assess serum adiponectin levels in adolescent pregnant women between 30 and 36 weeks of gestation.
+34077990	On the other hand, an imbalance due to low energy availability (LEA) due to a restrictive diet, eating disorders or long periods of energy expenditure leads to multisystemic dysregulation, prioritizing the body's essential functions.
+34077991	A total of 11 articles were included.
+30043826	Patients were grouped according to the ASHA classification: 1 (levels 1 and 2), 2 (levels 3, 4 and 5) and 3 (levels 6 and 7).
+30043827	The main interlocutors in the implementation of CSA, professionals or family members, can be barriers when they make it difficult for users to exercise their autonomy in communication, or facilitators when they encourage and use CSA with users.
+30043829	A significant difference was found between the 5-year-old group and all the other age groups, as well as for the 6-year-old group when compared to the 8-, 9-, 10- and 11-year-old groups.
+30043842	Such actions can help municipal health secretaries to be aware of up-to-date evidence.
+30043844	This article discusses the formation of thematic health care networks and aims to analyze the potential for optimizing geographic access in the chemotherapy network of the Unified Health System (SUS) in the state of Rio Grande do Sul, Brazil, using linear programming.
+30043845	We analyzed the relationship between two sub-areas of Public Health - Planning and Evaluation - through a bibliometric study of articles, theses and dissertations from 1980 to 2016.
+30043846	This study made it possible to identify the problems that exist throughout the obstetric care chain, and this knowledge allows us to understand how the health system is organized in relation to the care of women with serious maternal complications.
+30043847	The percentage is only 6% in the richest group of the population.
+30043849	The current process of intensification of work is part of the context of productive transformations in Brazil since the 1990s, leading to changes in the social production of worker exhaustion and the epidemiological profile of workers.
+30043850	The risk of ICU hospitalization for respiratory disease/symptoms increased by an average of 30% with each failure (p = 0.003; OR = 1.30; 95%CI: 1.09-1.55).
+30043853	Some considerations were made about the relative incompatibility between the existing structure of the services and the Ministry of Health's guidelines for offering PrEP.
+30043898	There is evidence of the influence of vocabulary on reading comprehension, especially in the question and answer method.
+30043899	Observational, analytical and cross-sectional study.
+30043900	Only one patient required ICU admission for a period of two days after surgery, due to previous heart disease.
+30043901	to identify doctors' knowledge of intra-abdominal hypertension and abdominal compartment syndrome and compare it with the approach established in the literature.
+30043928	Literature in Portuguese, English and Spanish published between 2010 and 2016 was searched in Cochrane, Lilacs, Medline and Scopus.
+30043929	At the end of the six stages of the Intervention Mapping, the "Health at School Nursing Program" was constructed, which should be implemented in 10 months, with five weekly exercise classes and one weekly session of nursing interventions, detailed in the Program.
+30043930	This was a descriptive, qualitative study carried out with women who attended a Human Milk Bank between 2014 and 2015.
+30043931	The "Brave New World" foresaw a society dominated by scientific and technological progress that went so far as to subjugate and dehumanize human beings.
+30043941	Itching was present in 51% of the sample and was statistically associated with phosphorus consumption (P=0.024) and elevated serum calcium (P=0.009).
+30043942	Reducing avoidable perinatal mortality is associated with increasing access to and quality of care to ensure promotion, prevention, treatment and specific and timely care.
+30043943	A total of 3147 articles were found; 23 articles published between 2010 and 2015 were selected.
+30043944	Integrative review with searches in the LILACS, MEDLINE/PubMed, SCOPUS, SciELO, Web of Science and Science Direct databases, using the descriptors: patient; navigation; nurse; professional; cancer; oncology; navigator and navigators.
+30043945	inadequate care was found for family groups (52.3%), specialized training in mental health (69.2%; p=0.02) and working conditions in services (87.7%).
+30043946	There is a need for ongoing education for professionals and greater communication between the bodies responsible for reporting and receiving complaints.
+30043947	We can infer the possibility of a subgroup with a differentiated representation of the term "verbal aggression" in the contrast zone.
+30043948	Thus, these results can provide food for thought about care for the elderly in health services, its relationship with legislation and the applicability of public health policies.
+30043949	It is hoped that the students will help prevent, identify and intervene with victims of violence.
+30043950	The first stage of data collection, in February-July 2014, consisted of constructing indicators based on the analysis of qualitative data from two evaluation surveys on this same service.
+30043951	Reduced social support was related to greater exposure to stress among nursing assistants and technicians (p=0.012).
+30043952	A qualitative study was carried out with 33 elderly people in a municipality on the Triple Frontier.
+30056460	Associations between history of orthodontic treatment and the independent variables were analyzed using the chi-square or Fisher's exact tests.
+30056461	The aim of this study was to evaluate the cytotoxic effects of 2.5% sodium hypochlorite (NaOCl), 17% ethylenediaminetetraacetic acid (EDTA) and 1% peracetic acid (PAA) on human fibroblasts.
+30056462	The aim of this study was to identify the relationship between the instruments used to select and diagnose patients with temporomandibular dysfunction (TMD).
+30064145	CONCLUSION: The abuse of licit or illicit substances during pregnancy is frequent and associated with worse maternal, perinatal and child development outcomes.
+30066724	The sample comprised 60 subjects aged between 18 and 58 years, with a mean age of 25.8 years, with normal hearing thresholds from 250 to 8000 Hz and normal results in acoustic immittance measurements.
+30066731	Finally, we provide details for the presentation of the results, including table models to present the baseline characteristics, the evolution of the hemodynamic and perfusion variables, and the effects of the treatments on the outcomes.
+30066736	These consensus sentences formed the text of the second stage, which was divided into eight chapters that were evaluated by marking the answers offered on a Linkert scale.
+30066737	a significant reduction in postoperative intraocular pressure compared to preoperative pressure was observed in all groups (p<0.001).
+30066738	The contributions to teaching and professional practice include theoretical enrichment of the analgesic drug options available for the treatment of postoperative pain in patients undergoing elective laparoscopic cholecystectomy, as well as alerting the team to consider the adverse effects of the interventions implemented.
+30066818	Infant serology: CMIA (microparticle chemiluminescence) reagent, VDRL (Venereal Diseases Research Laboratory) 1:1024 and TPHA (Treponema pallidum Hemagglutination) reagent.
+30066819	Spirometry, allergy tests, the presence of the CDX2 polymorphism in the RVD promoter by polymerase chain reaction (PCR) and genotyping of polymorphisms in exons 2 and 3 by PCR-SSCA (single-strand conformational analysis), total immunoglobulin E (IgE) and specific IgE to mites and grasses in the three groups studied were evaluated.
+30066820	Although the prevalence of antibacterial use in hospitalized children was not that high, a considerable part of the sample was inappropriate in their use of this type of medication, considering the dose and interval of use.
+30066821	The use of glucocorticoids occurred in 15.4% of the patients studied, with no statistically significant difference between the two groups.
+30066822	All the patients met the Weiss criteria for a histopathological diagnosis of RSC.
+30066823	Age, body mass, height, BMI, fat percentage, arm circumference and hip circumference were considered predictors of altered waist circumference.
