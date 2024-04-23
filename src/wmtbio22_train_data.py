@@ -1,6 +1,8 @@
 
 import os
 import sys
+import random
+import nltk
 
 from langdetect import detect
 
@@ -100,8 +102,16 @@ def fetch_multiple_articles(pmids, out_dir, lang1, lang2):
 				line_counts[lang] = 0
 			if line_counts[lang] < 100:
 				with open(os.path.join(out_dir, lang + ".txt"), "a") as writer:
+					sentences = nltk.sent_tokenize(item["abstracttext"])
+					random.seed(item["pmid"])
+					while True:
+						random_index = random.randint(0, len(sentences) - 1)
+						line = sentences[random_index].strip()
+						if len(line) > 20 and not line[0].isdigit() and not line[0] in [".", ",", ";", ":", "!", "?"]:
+							#print(line[0])
+							break
 					writer.write(item["pmid"] + '\t')
-					writer.write(item["abstracttext"] + "\n")
+					writer.write(line + "\n")
 					line_counts[lang] += 1
 				writer.close()
 			else:
