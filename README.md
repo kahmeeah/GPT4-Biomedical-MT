@@ -5,7 +5,7 @@ This repository contains the code and data used for the research paper:
 
 The full report is available to download.
 
-[![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=flat&logo=adobe-acrobat-reader)](./gpt4_biomedical_mt_2024.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=flat&logo=adobe-acrobat-reader)](https://github.com/kahmeeah/GPT4-Biomedical-MT/raw/main/gpt4_biomedical_mt_2024.pdf)
 
 ## Overview
 
